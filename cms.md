@@ -1,3 +1,4 @@
+## CMS Video Script
 So every so often I have someone come along and message me : "Hey I'm a Talented Developer, I want to work for Decred, Can I speak to your CEO?"
 
 Well, in Decred, there is no CEO or hiring Manager. The reason why is because Decred is an autonomous, decentralized, open source project with no existing central authority to make those types of decisions.
