@@ -35,10 +35,10 @@ The end goal of this fund is to be a Stakeholder Driven decentralized autonomous
 So as a Decred contractor you are actually working for the Decred DAO. This comes with a slew of benefits.
 
 - You can work from anywhere in the world.
-- There are no meetings.
-- There is no corporate agenda
+- There are no formal meetings.
+- There is no corporate or political agenda pushed on you
 - you can work behind a pseudonym
-- you can work Full or Part time, setting your own hours.
+- and you can work Full or Part time, setting your own hours.
 
 And while working remotely is becoming more commonplace these days what with the rise of the internet, the Decred project has shaped this in truly a unique manner, true to the principle of decentralization, since contractors are able to self-manage their work.
 So you may be wondering how contractors report their hours and get paid? Well, there's a system for that. (transition)
