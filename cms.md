@@ -7,9 +7,9 @@ So how does it all work? If there's no CEO, how do new people get brought on?
 Let's dive further into the Decred Contractor Model: (Transition)
 
 Decred is a community of doers, and that is fundamental to the growth of the project. In order to become a contractor, it is typical for a new contributor to first:
-1. Demonstrate an independent interest in Decred.
+- Demonstrate an independent interest in Decred.
 
-2. understand the basics of Decred by reading documentation or other educational content
+- understand the basics of Decred by reading documentation or other educational content
 
 This means understanding the core tenets, and other ins and outs of the project. The most efficient way to learn about Decred is to visit docs.decred.org and visit the 'Getting Started' section. (show this on screen)
 
@@ -43,7 +43,7 @@ you can work Full or Part time, setting your own hours.
 And while working remotely is becoming more commonplace these days what with the rise of the internet, the Decred project has shaped this in truly a unique manner, true to the principle of decentralization, since contractors are able to self-manage their work.
 So you may be wondering how contractors report their hours and get paid? Well, there's a system for that. (transition)
 
-Contractor Management System
+## Contractor Management System
 
 At the end of each month, each contractor prepares an invoice and submits it to the Contractor Management System, or CMS for short, which is integrated into Politeia. The invoice lists the items the contractor has worked on and a charge (in USD) for each - typically these charges are for a number of hours worked at an agreed hourly rate. (Transition)
  
