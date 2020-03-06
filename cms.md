@@ -61,12 +61,13 @@ If you'd like to get an insight on what it's like to be a DCR contractor, commun
 
 In the article he writes:
 
-**"Once one gets to know the project, one can identify useful pieces of work that aren't currently being done fairly easily. Taking on these tasks and completing them well is like the application process to (be paid for) work on Decred. As people get to know you and see that you're making useful contributions, other opportunities may open up."
+**"Once one gets to know the project, one can identify useful pieces of work that aren't currently being done fairly easily. Taking on these tasks and completing them well is like the application process to (be paid for) work on Decred. As people get to know you and see that you're making useful contributions, other opportunities may open up."**
 
 Understand that everything going on within the project is available to see on GitHub, so If you're interested in working for the project, simply visit Github, pick something to work on, do it, and if it's deemed valuable, odds are you'll be asked to become a contractor and get paid for your work.
+
 Listen to Decred Contractor Matheus talk about how he came into Decred: (show video segment)
 
 Decred has contractors from all over the world contributing to various elements of the project. It is truly a global workforce coming together to sustain and improve the Decred protocol, all while doing so in an autonomous manner.
 
 Remember, What you do for Decred is more important than whatever credentials you might possess, and it is the key to becoming a Contractor. Resumes and interviews are simply not a thing here, you'll need to demonstrate on your own how you can add value to the Decred ecosystem in order to become a part of it.
-Thanks for watching, if you have any questions, please feel free to leave a comment, or join Decred's community at chat.decred.org
+Thanks for watching, nd if you have any questions, please feel free to leave a comment, or check the video description for link's to join Decred's Community.
