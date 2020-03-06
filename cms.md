@@ -13,13 +13,13 @@ Decred is a community of doers, and that is fundamental to the growth of the pro
 
 This means understanding the core tenets, and other ins and outs of the project. The most efficient way to learn about Decred is to visit docs.decred.org and visit the 'Getting Started' section. (show this on screen)
 
-3. find a part of the project you feel you have the skills to contribute to.
+- find a part of the project you feel you have the skills to contribute to.
 What kind of skillset do you possess? Where do you think you can contribute? Do you believe your work will be valuable to the project?
 
-4. check with Decred contractors before starting work, to avoid duplication of efforts.
+- Check with Decred contractors before starting work, to avoid duplication of efforts.
 The easiest way to reach Decred Contractors is by joining chat.decred.org which uses Matrix. There are specific rooms available for development, research, and marketing.
 
-5. Complete and submit your work. If it is deemed valuable by the community and current contractors, odds are you'll be brought on as a contractor.
+- Complete and submit your work. If it is deemed valuable by the community and current contractors, odds are you'll be brought on as a contractor.
 Now This model works well because it means the people working on Decred actually care about the project on a deeper level, and don't just see their work as a means to another monthly paycheck. They understand their work is helping to grow and expand the Decred ecosystem, which is something many contractors are personally invested in.
 
 So where does this money come from to pay Contractors?
@@ -34,11 +34,11 @@ The Treasury is controlled by Decred Stakeholders, the people who hold and choos
 The end goal of this fund is to be a Stakeholder Driven decentralized autonomous organization - or DAO for short.
 So as a Decred contractor you are actually working for the Decred DAO. This comes with a slew of benefits.
 
-You can work from anywhere in the world.
-There are no meetings.
-There is no corporate agenda
-you can work behind a pseudonym
-you can work Full or Part time, setting your own hours.
+- You can work from anywhere in the world.
+- There are no meetings.
+- There is no corporate agenda
+- you can work behind a pseudonym
+- you can work Full or Part time, setting your own hours.
 
 And while working remotely is becoming more commonplace these days what with the rise of the internet, the Decred project has shaped this in truly a unique manner, true to the principle of decentralization, since contractors are able to self-manage their work.
 So you may be wondering how contractors report their hours and get paid? Well, there's a system for that. (transition)
@@ -58,9 +58,10 @@ As the DCR/USD conversion rate is pegged to the previous month, contractors are 
 Since contractors are paid out in DCR and not USD, many have to sell their DCR to Fiat in order to pay bills, and in doing so are exposed to exchange fees and price volatility.
 
 If you'd like to get an insight on what it's like to be a DCR contractor, community member Richard Red wrote up an in depth article talking about his experiences working for the Decred DAO. (https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa) (pan over article)
+
 In the article he writes:
 
-"Once one gets to know the project, one can identify useful pieces of work that aren't currently being done fairly easily. Taking on these tasks and completing them well is like the application process to (be paid for) work on Decred. As people get to know you and see that you're making useful contributions, other opportunities may open up."
+**"Once one gets to know the project, one can identify useful pieces of work that aren't currently being done fairly easily. Taking on these tasks and completing them well is like the application process to (be paid for) work on Decred. As people get to know you and see that you're making useful contributions, other opportunities may open up."
 
 Understand that everything going on within the project is available to see on GitHub, so If you're interested in working for the project, simply visit Github, pick something to work on, do it, and if it's deemed valuable, odds are you'll be asked to become a contractor and get paid for your work.
 Listen to Decred Contractor Matheus talk about how he came into Decred: (show video segment)
