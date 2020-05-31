@@ -1,5 +1,7 @@
 **NOTE: This tutorial is geared towards low-end users who are just looking to run a node to help support the Decred network. For that reason, it does not dive into staking, setting up a wallet, or anything else beyond getting the node running with TOR.**
 
+# Raspberry Pi Full Node With Tor Guide
+
 In this tutorial, I’ll walk you through how to setup and run a Decred Full Node on the Raspberry Pi with Tor enabled. 
 
 A full node is a program that fully validates transactions and blocks, without having to rely on a third party.
@@ -19,7 +21,7 @@ You’ll need:
 
 If you don’t already have a Raspberry Pi, I’d recommend buying a kit or bundle which will come with everything you need. These usually run between $60 to $100 online, depending on what model you go for.
 
-Start by plugging in your sd card or SSD into your computer. Download a program called the Raspberry Pi Imager and install it. Choose your operating system (default is fine), choose your SD card (be careful not to pick anything else) and click write.
+Start by plugging in your SD card or SSD into your computer. Download a program called the [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/) and install it. Choose your operating system (default is fine), choose your SD card (be careful not to pick anything else) and click write.
 
 You’ll need to decide if you want to set your pi up “headless” meaning you access your pi remotely without having to plug in a mouse, keyboard, and monitor, or you can choose to plug everything in and connect your pi to a tv or monitor with an HDMI cable.
 
