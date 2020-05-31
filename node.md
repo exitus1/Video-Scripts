@@ -199,7 +199,7 @@ Edit the top of the file with:
 ```
 proxy=127.0.0.1:9050
 listen=
-externalip=**Your.OnionFromAbove**
+externalip=Your-Onion-From-Above.onion
 torisolation=1
 ```
 Press Control+X to exit.
