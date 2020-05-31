@@ -149,10 +149,11 @@ Open the terminal.
 
 Run:
 
-Enter ```cd
-
+Enter 
+```
 cd ./decred/decred-linux-arm-v1.5.1
-./dcrd```
+./dcrd
+```
 
 Make sure to change the version number if the current version is no longer v1.5.1 (e.g v1.6.0)
 
