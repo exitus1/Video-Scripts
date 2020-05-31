@@ -73,9 +73,10 @@ Next we'll set the resolution for VNC. Run:
 ```sudo nano /boot/config.txt```
 
 Add the following text to the document:
-
+```
 framebuffer_width=1900
 framebuffer_height=1024
+```
 
 
 
@@ -87,7 +88,7 @@ Enter ```raspberry.local``` in the "VNC Server" field
 
 Click Ok.
 
-5. Double-click on the connection icon to connect.
+Double-click on the connection icon to connect.
 
 Click Ok if you are shown a security warning.
 
