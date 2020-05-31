@@ -85,11 +85,11 @@ framebuffer_height=1024
 
 
 
-Now, Download, install and launch [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
+Now download, install and launch [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
 
 Select New connection from the File menu
 
-Enter ```raspberry.local``` in the "VNC Server" field
+Enter ```raspberrypi.local``` in the "VNC Server" field
 
 Click Ok.
 
