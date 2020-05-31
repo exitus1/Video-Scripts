@@ -23,7 +23,9 @@ Start by plugging in your sd card or SSD into your computer. Download a program 
 
 You’ll need to decide if you want to set your pi up “headless” meaning you access your pi remotely without having to plug in a mouse, keyboard, and monitor, or you can choose to plug everything in and connect your pi to a tv or monitor with an HDMI cable.
 
-If you want to do the headless approach, you’ll need to create a text file in your boot drive titled ssh. If you plan on sshing into your pi wirelessly, there’s another step where you need to create a text file titled wpa_supplicant.conf and input the following in the document:
+If you want to do the headless approach, **you’ll need to create a text file in your boot drive titled** ```ssh```
+
+If you plan on sshing into your pi wirelessly, there’s another step where you need to create a text file titled ```wpa_supplicant.conf``` and input the following in the document:
 
 ```country=US
 ctrl_interface=DIR=/var/run/wpa_supplicant  GROUP=netdev
@@ -62,9 +64,9 @@ In the command line type
 
 ```sudo raspi-config```
 
-Select Interfacing Options 
+Select **Interfacing Options** 
 
-Select VNC
+Select **VNC**
 
 Press yes, then okay, then finished.
 
@@ -200,7 +202,7 @@ If you would like your node to be anonymous and connect to only other tor nodes,
 
 Save file
 
-Run your DCRD node with
+Run your Decred node with
 
 ```
 cd
