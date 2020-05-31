@@ -121,6 +121,8 @@ Open the Web Browser.
 
 Search ```decred github releases```
 
+Click on the first link.
+
 Download ```dcrinstall-linux-arm-v1.5.1```
 
 There may be a newer version out at the time of this video. Make sure to download the latest version.
