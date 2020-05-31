@@ -165,10 +165,6 @@ Run ```sudo apt install tor```
 
 Press y to continue
 
-run ```ifconfig``` to find your Pi's IP address. Look at eth0 if you are on a wired connection. Look at wlan0 if you are on wifi.
-
-You can also hover your mouse over the connection icon on the top right of the screen.
-
 Run  ```sudo nano /etc/tor/torrc```
 
 Add the following text at the top:
@@ -195,7 +191,7 @@ Check Status to see if its working ```sudo systemctl status tor@default.service`
 
 Run ```sudo cat /var/lib/tor/dcrd/hostname```
 
-Save your .onion we will need it later.
+Save your .onion **we will need it later.**
 
 Run ```nano .dcrd/dcrd.conf```
 
