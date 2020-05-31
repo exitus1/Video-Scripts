@@ -161,7 +161,7 @@ If you see that your node has successfully booted, hit control+c so we can finis
 
 TOR is free and open-source software for enabling anonymous communication.
 
-Open theRaspberry pi terminal:
+Open the raspberry pi terminal:
 
 Run ```sudo apt install tor```
 
