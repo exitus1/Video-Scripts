@@ -29,7 +29,8 @@ If you want to do the headless approach, **you’ll need to create a text file i
 
 If you plan on sshing into your pi wirelessly, there’s another step where you need to create a text file titled ```wpa_supplicant.conf``` and input the following in the document:
 
-```country=US
+```
+country=US
 ctrl_interface=DIR=/var/run/wpa_supplicant  GROUP=netdev
 update_config=1
 
@@ -173,7 +174,7 @@ Run  ```sudo nano /etc/tor/torrc```
 Add the following text at the top:
 ```
 SocksPort 9050
-SocksPort **YOURPILOCALADDRESS**:9050
+SocksPort raspberrypi.local:9050
 RunAsDaemon 1
 DataDirectory /var/lib/tor
 HiddenServiceDir /var/lib/tor/dcrd
@@ -181,7 +182,7 @@ HiddenServiceVersion 2
 HiddenServicePort 9108 127.0.0.1:9108
 ```
 
-Press control and x at the same time when you are finished. Save to the same file location.
+Press Control and X at the same time when you are finished. Save to the same file location.
 Hit enter to continue.
 
 restart the tor service with ```sudo systemctl restart tor@default.service```
