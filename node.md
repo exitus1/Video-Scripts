@@ -49,8 +49,8 @@ If you are doing this process directly connecting your pi to a monitor, you shou
 
 If you are doing a headless setup you will need to download a program called PUTTY. This program will allow us to access our pi, and control it via command line after it has booted.
 
-In PUTTY, enter raspberrypi.local and click enter. Click connect past the precaution.
-You’ll be prompted to enter a Username and Password. The default is pi and the password is raspberry (all lowercase).
+In PUTTY, enter ```raspberrypi.local``` and click enter. Click connect past the precaution.
+You’ll be prompted to enter a Username and Password. The default is ``` pi```  and the password is ``` raspberry```  (all lowercase).
 
 Congrats, you have just SSHed into your pi.
 
@@ -68,6 +68,15 @@ Select VNC
 
 Press yes, then okay, then finished.
 
+Next we'll set the resolution for VNC. Run:
+
+```sudo nano /boot/config.txt```
+
+Add the following text to the document:
+
+```framebuffer_width=1900
+framebuffer_height=1024```
+
 Now, Download, install and launch VNC Viewer.
 
 Select New connection from the File menu
@@ -80,7 +89,7 @@ Click Ok.
 
 Click Ok if you are shown a security warning.
 
-Enter the Pi's username and password when prompted. The defaults are username: pi and password: raspberry. Click Ok.
+Enter the Pi's username and password when prompted. The defaults are username: ``` pi```  and password: ``` raspberry```  Click Ok.
 
 Your Raspberry Pi desktop will then appear in a window on your main computer's desktop. You'll be able to control everything from there.
 
@@ -90,17 +99,17 @@ Set your country as needed.
 
 Change your Pi account’s password when prompted
 
-You can configure your wi-fi at this point.
+You can configure your wi-fi at this point, if needed.
 
 Update your Pi.
 
-Restart your system.
+Reboot your Pi when prompted.
 
 If you’re doing this over VNC you’ll need to reconnect once the pi has re-booted.
 
 Now we need to download the DCR installer.
 
-Open the web browser.
+Open the Web Browser.
 
 Search ```decred github releases```
 
@@ -110,7 +119,7 @@ There may be a newer version out at the time of this video. Make sure to downloa
 
 Navigate to your downloads folder. Double click the installer, execute the installer in Terminal
 
-It will take a short while (5mins) to download and setup all the files.A folder called ./decred has now been placed in your home directory. 
+It will take a few minutes to download and setup all the files.A folder called ./decred has now been placed in your home directory. 
 
 It may ask you to input a password for a new wallet. We won’t be using this as a wallet so you can go through quickly.
 
