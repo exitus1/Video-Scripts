@@ -74,8 +74,10 @@ Next we'll set the resolution for VNC. Run:
 
 Add the following text to the document:
 
-```framebuffer_width=1900
-framebuffer_height=1024```
+framebuffer_width=1900
+framebuffer_height=1024
+
+
 
 Now, Download, install and launch VNC Viewer.
 
