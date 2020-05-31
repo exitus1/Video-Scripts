@@ -150,6 +150,7 @@ Open the terminal.
 Run:
 
 Enter ```cd
+
 cd ./decred/decred-linux-arm-v1.5.1
 ./dcrd```
 
