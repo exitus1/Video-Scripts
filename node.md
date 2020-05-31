@@ -191,13 +191,18 @@ Check Status to see if its working ```sudo systemctl status tor@default.service`
 
 Run ```sudo cat /var/lib/tor/dcrd/hostname```
 
-Save your .onion **we will need it later.**
+Save your .onion **we will need it for the next step.**
 
 Run ```nano .dcrd/dcrd.conf```
 
-The proxy argument is commented out (not active) because we would like our node to serve both anonymous connections made through tor as well as regular traffic. If you want your node to only make anonymous connections to peers, remove the hashtag before proxy and put it before onion instead.
-
-If you would like your node to be anonymous and connect to only other tor nodes, keep proxy.
+Edit the top of the file with:
+```
+proxy=127.0.0.1:9050
+listen=
+externalip=**Your.OnionFromAbove**
+torisolation=1
+```
+Press Control+X to exit.
 
 Save file
 
@@ -207,3 +212,7 @@ Run your Decred node with
 cd
 cd ./decred/decred-linux-arm-v1.5.1
 ./dcrd
+
+The Node will need lots of time to download and sync. Currently the Decred Blockchain is 4.2 Gigabytes in size.
+
+When you start seeing logs saying **(inbound)** it means your node is accepting peer connections and now you’re officially part of the Decred network, helping it grow. Congratulations!
