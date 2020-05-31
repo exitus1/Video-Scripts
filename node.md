@@ -52,7 +52,7 @@ Plug your SD card into your Pi, plug in the power, and boot up your pi.
 
 If you are doing this process directly connecting your pi to a monitor, you should see the pi boot up and you’ll be presented with the homescreen.
 
-If you are doing a headless setup you will need to download a program called PUTTY. This program will allow us to access our pi, and control it via command line after it has booted.
+If you are doing a headless setup you will need to download a program called [PUTTY](https://putty.org/). This program will allow us to access our pi, and control it via command line after it has booted.
 
 In PUTTY, enter ```raspberrypi.local``` and click enter. Click connect past the precaution.
 You’ll be prompted to enter a Username and Password. The default is ``` pi```  and the password is ``` raspberry```  (all lowercase).
@@ -85,7 +85,7 @@ framebuffer_height=1024
 
 
 
-Now, Download, install and launch VNC Viewer.
+Now, Download, install and launch [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
 
 Select New connection from the File menu
 
@@ -127,7 +127,7 @@ There may be a newer version out at the time of this video. Make sure to downloa
 
 Navigate to your downloads folder. Double click the installer, execute the installer in Terminal
 
-It will take a few minutes to download and setup all the files.A folder called ./decred has now been placed in your home directory. 
+It will take a few minutes to download and setup all the files. A folder called ./decred has now been placed in your home directory. 
 
 It may ask you to input a password for a new wallet. We won’t be using this as a wallet so you can go through quickly.
 
