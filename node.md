@@ -212,7 +212,7 @@ Run your Decred node with
 cd
 cd ./decred/decred-linux-arm-v1.5.1
 ./dcrd
-
+```
 The Node will need lots of time to download and sync. Currently the Decred Blockchain is 4.2 Gigabytes in size.
 
 When you start seeing logs saying **(inbound)** it means your node is accepting peer connections and now you’re officially part of the Decred network, helping it grow. Congratulations!
