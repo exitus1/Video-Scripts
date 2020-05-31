@@ -21,7 +21,7 @@ You’ll need:
 
 If you don’t already have a Raspberry Pi, I’d recommend buying a kit or bundle which will come with everything you need. These usually run between $60 to $100 online, depending on what model you go for.
 
-Start by plugging in your SD card or SSD into your computer. Download a program called the [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/) and install it. Choose your operating system (default is fine), choose your SD card (be careful not to pick anything else) and click write.
+Start by plugging in your SD card or SSD into your computer. We'll need to install the Raspberry Pi OS. Download a program called the [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/) and install it. Choose your operating system (default is fine), choose your SD card (be careful not to pick anything else) and click write.
 
 You’ll need to decide if you want to set your pi up “headless” meaning you access your pi remotely without having to plug in a mouse, keyboard, and monitor, or you can choose to plug everything in and connect your pi to a tv or monitor with an HDMI cable.
 
@@ -119,9 +119,11 @@ Now we need to download the DCR installer.
 
 Open the Web Browser.
 
-Search ```decred github releases```
+Navigate to the decred.org website.
 
-Click on the first link.
+Scroll down and look for the green "Stable V1.5.1" button.
+
+Clicking this will bring us to Decred's github releases page.
 
 Download ```dcrinstall-linux-arm-v1.5.1```
 
