@@ -23,7 +23,7 @@ You’ll need:
 
 If you don’t already have a Raspberry Pi, I’d recommend buying a kit or bundle which will come with everything you need. These usually run between $60 to $100 online, depending on what model you go for.
 
-### Walkthrough Begins Here
+> ### Walkthrough Begins Here
 
 Start by plugging in your SD card or SSD into your computer. We'll need to install the Raspberry Pi OS. Download a program called the [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/) and install it. Choose your operating system (default is fine), choose your SD card (be careful not to pick anything else) and click write.
 
