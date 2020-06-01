@@ -1,6 +1,6 @@
-**NOTE: This tutorial is geared towards low-end users who are just looking to run a node to help support the Decred network. For that reason, it does not dive into staking, setting up a wallet, or anything else beyond getting the node running with TOR.**
+*NOTE: This tutorial is geared towards low-end users who are just looking to run a node to help support the Decred network. For that reason, it does not dive into staking, setting up a wallet, or anything else beyond getting the node running with TOR.*
 
-### Raspberry Pi Full Node With Tor Guide
+## Raspberry Pi Full Node With Tor Guide
 
 #### Introduction
 
@@ -18,22 +18,22 @@ So lets start:
 
 - Raspberry pi 3b+ or higher
 - Power Adapter (Power Cord)
-- 32 Gig (or more) SD card and SD card reader, You can use an SSD instead of an SD card if you’d like to get the best performance and shelf life out of your node
+- 32 Gig (or more) SD card and SD card reader, I would reccommend an SSD instead of an SD card if you’d like to get the best performance and shelf life out of your node, but an SD card is fine to start with.
 - An HDMI cable if you’d like to hook your Pi directly up to a monitor or TV. 
 
-If you don’t already have a Raspberry Pi, I’d recommend buying a kit or bundle which will come with everything you need. These usually run between $60 to $100 online, depending on what model you go for.
+If you don’t already have a Raspberry Pi, I’d recommend buying a kit or bundle which will come with everything you'll need. These usually run between $60 to $100 online, depending on what model you go for.
 
 > ### Walkthrough Begins Here
 
 #### Step 1. Download Raspberry Pi Imager
 
-Start by plugging in your SD card or SSD into your computer. We'll need to install the Raspberry Pi OS. Download a program called the [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/) and install it. Choose your operating system (default is fine), choose your SD card (be careful not to pick anything else) and click write.
+Plug your SD card or SSD into your computer. We will be installing the Raspberry Pi OS. Download a program called the [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/) and install it. Choose your operating system (default is fine), choose your SD card (be careful not to pick anything else) and click write.
 
-You’ll need to decide if you want to set your pi up “headless” meaning you access your pi remotely without having to plug in a mouse, keyboard, and monitor, or you can choose to plug everything in and connect your pi to a tv or monitor with an HDMI cable.
+You’ll need to decide if you want to set your pi up “headless” meaning you access your pi remotely without having to plug in a mouse, keyboard, and monitor, or you can choose to plug everything in and connect your pi to a tv or monitor with an HDMI cable. I would reccommend taking the time to learn how to SSH in and configure VNC in order to more easily check up on your node.
 
 #### Step 2. Headless Setup
 
-If you want to do the headless approach, **you’ll need to create a text file in your boot drive titled** ```ssh```
+For the headless setup, **you’ll need to create a text file in your boot drive titled** ```ssh```
 
 If you plan on **sshing into your pi wirelessly**, there’s another step where you need to create a text file titled ```wpa_supplicant.conf``` and input the following in the document:
 
