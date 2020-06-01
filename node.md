@@ -129,6 +129,10 @@ Download ```dcrinstall-linux-arm-v1.5.1```
 
 There may be a newer version out at the time of this video. Make sure to download the latest version.
 
+We'll need to set the file as an exectuable. Open the Pi Terminal.
+
+Run ```sudo chmod u+x dcrinstall-linux-arm-v1.5.1```
+
 Navigate to your downloads folder. Double click the installer, execute the installer in Terminal
 
 It will take a few minutes to download and setup all the files. A folder called ./decred has now been placed in your home directory. 
