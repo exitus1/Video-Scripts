@@ -10,7 +10,9 @@ A full node is a program that fully validates transactions and blocks, without h
 
 Running a full node is one of the strongest actions of support you can do for a peer-to-peer distributed protocol. Every single Decred node that runs on the network adds strength and resilience to the consensus mechanism.
 
-While this process can be intimidating, it’s actually quite straightforward. 
+This video is geared towards low-level users new to the Raspberry Pi and Linux. The easiest way to follow along is to run this video alongside the script I've released on Linux where you can copy and paste in all of the needed commands. You'll see me doing this in the video.
+
+I'd like to thank Checkmate for the original Raspberry Pi guide, and Kozel for the guide on setting up TOR.
 
 So lets start:
 
@@ -18,7 +20,7 @@ So lets start:
 
 - Raspberry pi 3b+ or higher
 - Power Adapter (Power Cord)
-- 32 Gig (or more) SD card and SD card reader, I would reccommend an SSD instead of an SD card if you’d like to get the best performance and shelf life out of your node, but an SD card is fine to start with.
+- 32 Gigabyte (or more) SD card and SD card reader, I would reccommend an SSD instead of an SD card if you’d like to get the best performance and shelf life out of your node, but an SD card is fine to start with.
 - An HDMI cable if you’d like to hook your Pi directly up to a monitor or TV. 
 
 If you don’t already have a Raspberry Pi, I’d recommend buying a kit or bundle which will come with everything you'll need. These usually run between $60 to $100 online, depending on what model you go for.
@@ -29,11 +31,13 @@ If you don’t already have a Raspberry Pi, I’d recommend buying a kit or bund
 
 Plug your SD card or SSD into your computer. We will be installing the Raspberry Pi OS. Download a program called the [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/) and install it. Choose your operating system (default is fine), choose your SD card (be careful not to pick anything else) and click write.
 
+Once finished right click on the drive and click eject.
+
 You’ll need to decide if you want to set your pi up “headless” meaning you access your pi remotely without having to plug in a mouse, keyboard, and monitor, or you can choose to plug everything in and connect your pi to a tv or monitor with an HDMI cable. I would reccommend taking the time to learn how to SSH in and configure VNC in order to more easily check up on your node.
 
 #### Step 2. Headless Setup
 
-For the headless setup, **you’ll need to create a text file in your boot drive titled** ```ssh```
+For the headless setup, plug your SD card or SSD back. **you’ll need to create a text file in your boot drive titled** ```ssh```
 
 If you plan on **sshing into your pi wirelessly**, there’s another step where you need to create a text file titled ```wpa_supplicant.conf``` and input the following in the document:
 
