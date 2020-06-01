@@ -178,7 +178,7 @@ If you see that your node has successfully booted, hit control+c so we can finis
 
 If you do not wish to run TOR, make sure to forward the 9108 Port. If you choose to TOR, you won't need to do any port forwarding.
 
-### Installing and Configuring TOR
+> ### Installing and Configuring TOR
 
 TOR is free and open-source software for enabling anonymous communication.
 
