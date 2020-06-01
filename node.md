@@ -127,11 +127,13 @@ Navigate to the decred.org website.
 
 Scroll down and look for the green "Stable V1.5.1" button.
 
+Newer releases will be a different version.
+
 Clicking this will bring us to Decred's github releases page.
 
 Download ```dcrinstall-linux-arm-v1.5.1```
 
-There may be a newer version out at the time of this video. Make sure to download the latest version.
+Again, there may be a newer version out. Make sure to download the latest version.
 
 We'll need to set the file as an exectuable. Open the Pi Terminal.
 
@@ -143,11 +145,13 @@ Navigate to your downloads folder. Double click the installer, execute the insta
 
 It will take a few minutes to download and setup all the files. A folder called ./decred has now been placed in your home directory. 
 
-It may ask you to input a password for a new wallet. We won’t be using this as a wallet so you can go through quickly.
+It may ask you to input a password for a new wallet. Enter a password. Remember, we're just using this as a node and not as a wallet.
 
 Type n for public data
 
 Hit n for Seed
+
+We're not using this as a wallet so don't write down the seed.
 
 Hit okay for the seed.
 
@@ -160,8 +164,7 @@ Now we can start the node:
 Open the terminal.
 
 Run:
-
-Enter 
+ 
 ```
 cd ./decred/decred-linux-arm-v1.5.1
 ./dcrd
@@ -171,7 +174,11 @@ Make sure to change the version number if the current version is no longer v1.5.
 
 The Decred daemon will boot up and start connecting to peers
 
-If you see that your node has successfully booted, hit control+c so we can finish by enabling TOR. 
+If you see that your node has successfully booted, hit control+c so we can finish by enabling TOR.
+
+If you do not wish to run TOR, make sure to forward the 9108 Port. If you choose to TOR, you won't need to do any port forwarding.
+
+### Installing and Configuring TOR
 
 TOR is free and open-source software for enabling anonymous communication.
 
