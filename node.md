@@ -255,4 +255,4 @@ When you start seeing logs saying **(inbound)** it means your node is accepting 
 
 If your Pi ever loses power, make sure to reboot it and re-run dcrd. It's also a good idea to use VNC to check up on your Pi every so often. Also make sure you follow the Decred Project so you don't miss any new releases.
 
-I'd like to thank Checkmate for the original Raspberry Pi guide, and Kozel for setting up TOR.
+
