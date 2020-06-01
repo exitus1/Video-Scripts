@@ -14,7 +14,7 @@ While this process can be intimidating, it’s actually quite straightforward. I
 
 So lets start:
 
-You’ll need:
+#### You’ll need:
 
 - Raspberry pi 3b+ or higher
 - Power Adapter (Power Cord)
@@ -25,13 +25,17 @@ If you don’t already have a Raspberry Pi, I’d recommend buying a kit or bund
 
 > ### Walkthrough Begins Here
 
+#### Step 1. Download Raspberry Pi Imager
+
 Start by plugging in your SD card or SSD into your computer. We'll need to install the Raspberry Pi OS. Download a program called the [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/) and install it. Choose your operating system (default is fine), choose your SD card (be careful not to pick anything else) and click write.
 
 You’ll need to decide if you want to set your pi up “headless” meaning you access your pi remotely without having to plug in a mouse, keyboard, and monitor, or you can choose to plug everything in and connect your pi to a tv or monitor with an HDMI cable.
 
+#### Step 2. Headless Setup
+
 If you want to do the headless approach, **you’ll need to create a text file in your boot drive titled** ```ssh```
 
-If you plan on sshing into your pi wirelessly, there’s another step where you need to create a text file titled ```wpa_supplicant.conf``` and input the following in the document:
+If you plan on *sshing into your pi wirelessly*, there’s another step where you need to create a text file titled ```wpa_supplicant.conf``` and input the following in the document:
 
 ```
 country=US
@@ -51,10 +55,12 @@ Save the file once you are done.
 
 Right click the drive and click eject.
 
-Plug your SD card into your Pi, plug in the power, and boot up your pi.
+Plug your SD card into your Pi, plug in the power, plug in your ethernet cable (if need), and boot up your pi.
 
 
 If you are doing this process directly connecting your pi to a monitor, you should see the pi boot up and you’ll be presented with the homescreen.
+
+#### Step 3. Putty and VNC
 
 If you are doing a headless setup you will need to download a program called [PUTTY](https://putty.org/). This program will allow us to access our pi, and control it via command line after it has booted.
 
@@ -103,6 +109,8 @@ Click Ok if you are shown a security warning.
 
 Enter the Pi's username and password when prompted. The defaults are username: ``` pi```  and password: ``` raspberry```  Click Ok.
 
+#### Step 4. Initial Configuration 
+
 Your Raspberry Pi desktop will then appear in a window on your main computer's desktop. You'll be able to control everything from there.
 
 Click past the SSH warning.
@@ -120,6 +128,8 @@ Reboot your Pi when prompted.
 If you’re doing this over VNC you’ll need to reconnect once the pi has re-booted.
 
 Now we need to download the DCR installer.
+
+#### Step 5. Download and run dcrinstall
 
 Open the Web Browser.
 
