@@ -35,7 +35,7 @@ You’ll need to decide if you want to set your pi up “headless” meaning you
 
 If you want to do the headless approach, **you’ll need to create a text file in your boot drive titled** ```ssh```
 
-If you plan on *sshing into your pi wirelessly*, there’s another step where you need to create a text file titled ```wpa_supplicant.conf``` and input the following in the document:
+If you plan on **sshing into your pi wirelessly**, there’s another step where you need to create a text file titled ```wpa_supplicant.conf``` and input the following in the document:
 
 ```
 country=US
