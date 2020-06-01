@@ -77,7 +77,7 @@ If you tried to connect wirelessly and it couldn't find a host, you may need to 
 
 Now we need to enable VNC.
 
-In the command line type
+In the command line Run
 
 ```sudo raspi-config```
 
