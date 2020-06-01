@@ -131,6 +131,8 @@ There may be a newer version out at the time of this video. Make sure to downloa
 
 We'll need to set the file as an exectuable. Open the Pi Terminal.
 
+Run ```cd ~/Downloads/```
+
 Run ```sudo chmod u+x dcrinstall-linux-arm-v1.5.1```
 
 Navigate to your downloads folder. Double click the installer, execute the installer in Terminal
