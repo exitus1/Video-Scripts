@@ -10,7 +10,7 @@ A full node is a program that fully validates transactions and blocks, without h
 
 Running a full node is one of the strongest actions of support you can do for a peer-to-peer distributed protocol. Every single Decred node that runs on the network adds strength and resilience to the consensus mechanism.
 
-While this process can be intimidating, it’s actually quite straightforward. I’d like to thank Decred community member’s Checkmate, Kozel, and Geostone for helping me out.
+While this process can be intimidating, it’s actually quite straightforward. 
 
 So lets start:
 
@@ -250,3 +250,5 @@ The Node will need lots of time to download and sync. Currently the Decred Block
 When you start seeing logs saying **(inbound)** it means your node is accepting peer connections and now you’re officially part of the Decred network, helping it grow. 
 
 If your Pi ever loses power, make sure to reboot it and re-run dcrd. It's also a good idea to use VNC to check up on your Pi every so often. Also make sure you follow the Decred Project so you don't miss any new releases.
+
+I'd like to thank Checkmate for the original Raspberry Pi guide, and Kozel for setting up TOR.
