@@ -193,11 +193,9 @@ Hit enter to continue.
 
 restart the tor service with ```sudo systemctl restart tor@default.service```
 
-You may need to Enter Your password.
-
 Check Status to see if its working ```sudo systemctl status tor@default.service```
 
-(exit view with ctrl+C)
+(Exit view with ctrl+C)
 
 Run ```sudo cat /var/lib/tor/dcrd/hostname```
 
