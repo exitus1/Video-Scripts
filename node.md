@@ -201,6 +201,8 @@ TOR is free and open-source software for enabling anonymous communication.
 
 If you'd like a more in-depth explanation of what all of the commands do I'd reccommend checking out Kozel's Guide: [guide on setting up TOR](https://github.com/artikozel/decred-articles/blob/master/English/howilearnedtostopworryingandlovethecli/part2-configuringtor.md)
 
+Lets Start.
+
 - Open the Raspberry pi terminal:
 
 - Run ```sudo apt install tor```
