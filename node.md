@@ -11,7 +11,7 @@ A full node is a program that fully validates transactions and blocks, without h
 
 Running a full node is one of the strongest actions of support you can do for a peer-to-peer distributed protocol. Every single Decred node that runs on the network adds strength and resilience to the consensus mechanism.
 
-This video is geared towards low-level users new to the Raspberry Pi and Linux. The easiest way to follow along is to run this video alongside the script I've released on Linux where you can copy and paste in all of the needed commands. You'll see me doing this in the video.
+This video is geared towards low-level users new to the Raspberry Pi and Linux. The easiest way to follow along is to run this video alongside the script I've released on github where you can copy and paste in all of the needed commands. You'll see me doing this in the video.
 
 I'd like to thank Checkmate for the original [Raspberry Pi Guide](https://medium.com/decred/running-a-decred-raspberry-pi-node-ac605b70c652), and Kozel for the guide on setting up TOR.
 
