@@ -2,6 +2,7 @@
 
 ## Raspberry Pi Full Node With Tor Guide
 
+
 #### Introduction
 
 In this tutorial, I’ll walk you through how to setup and run a Decred Full Node on the Raspberry Pi with Tor enabled. 
@@ -200,11 +201,11 @@ TOR is free and open-source software for enabling anonymous communication.
 
 Open the raspberry pi terminal:
 
-Run ```sudo apt install tor```
+- Run ```sudo apt install tor```
 
-Press y to continue
+- Press y to continue
 
-Run  ```sudo nano /etc/tor/torrc```
+- Run  ```sudo nano /etc/tor/torrc```
 
 Add the following text at the top:
 ```
@@ -220,15 +221,15 @@ HiddenServicePort 9108 127.0.0.1:9108
 Press Control and X at the same time when you are finished. Save to the same file location.
 Hit enter to continue.
 
-Restart the tor service with ```sudo systemctl restart tor@default.service```
+- Restart the tor service with ```sudo systemctl restart tor@default.service```
 
-Check Status to see if its working ```sudo systemctl status tor@default.service```
+- Check Status to see if its working ```sudo systemctl status tor@default.service```
 
 (Exit view with ctrl+C)
 
 Run ```sudo cat /var/lib/tor/dcrd/hostname```
 
-Save your .onion **we will need it for the next step.**
+- Save your .onion **we will need it for the next step.**
 
 Run ```nano .dcrd/dcrd.conf```
 
