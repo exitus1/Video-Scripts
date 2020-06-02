@@ -199,7 +199,9 @@ If you do not wish to run TOR, make sure to forward the 9108 Port. If you choose
 
 TOR is free and open-source software for enabling anonymous communication.
 
-Open the raspberry pi terminal:
+If you'd like a more in-deth explanation of what all of the commands do i'd reccommend checking out Kozel's Guide: [guide on setting up TOR](https://github.com/artikozel/decred-articles/blob/master/English/howilearnedtostopworryingandlovethecli/part2-configuringtor.md)
+
+- Open the raspberry pi terminal:
 
 - Run ```sudo apt install tor```
 
@@ -254,8 +256,11 @@ cd ./decred/decred-linux-arm-v1.5.1
 The Node will need lots of time to download and sync. Currently the Decred Blockchain is 4.2 Gigabytes in size.
 
 
-When you start seeing logs saying **(inbound)** it means your node is accepting peer connections and now you’re officially part of the Decred network, helping it grow. 
+When you start seeing logs saying **(inbound)** it means your node is accepting peer connections and now you’re officially part of the Decred network, helping it grow. Even if everything is configured properly, you won't see inbound conns for several days on average.
+The network is intentionally designed to favor nodes that have a track record over new nodes to help prevent things like a bad actor firing up a bunch of malicious nodes.
 
-If your Pi ever loses power, make sure to reboot it and re-run dcrd. It's also a good idea to use VNC to check up on your Pi every so often. Also make sure you follow the Decred Project so you don't miss any new releases.
+If your Pi ever loses power, make sure to reboot it and re-run dcrd. It's also a good idea to use VNC to check up on your Pi every so often. 
+
+Make sure you follow the Decred Project so you don't miss any new releases.
 
 
