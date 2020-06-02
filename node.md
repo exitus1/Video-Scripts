@@ -69,7 +69,7 @@ If you are doing this process directly connecting your pi to a monitor, you shou
 If you are doing a headless setup you will need to download a program called [PUTTY](https://putty.org/). This program will allow us to access our pi, and control it via command line after it has booted.
 
 In PUTTY, enter ```raspberrypi.local``` and click enter. Click connect past the precaution.
-You’ll be prompted to enter a Username and Password. The default is ``` pi```  and the password is ``` raspberry```  (all lowercase).
+You’ll be prompted to enter a Username and Password. The default username is ``` pi```  and the password is ``` raspberry```  (all lowercase).
 
 Congrats, you have just SSHed into your pi.
 
