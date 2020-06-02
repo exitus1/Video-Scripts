@@ -37,7 +37,7 @@ You’ll need to decide if you want to set your pi up “headless” meaning you
 
 #### Step 2. Headless Setup
 
-For the headless setup, plug your SD card or SSD back. **you’ll need to create a text file in your boot drive titled** ```ssh```
+For the headless setup, plug your SD card or SSD back in. **you’ll need to create a text file in your boot drive titled** ```ssh```
 
 If you plan on **sshing into your pi wirelessly**, there’s another step where you need to create a text file titled ```wpa_supplicant.conf``` and input the following in the document:
 
