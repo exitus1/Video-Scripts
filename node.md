@@ -87,7 +87,9 @@ Select **VNC**
 
 Press yes, then okay, then finished.
 
-Next we'll set the resolution for VNC. Run:
+Next we'll set the resolution for VNC. (This step isn't needed, it's just to change the resolution)
+
+Run:
 
 ```sudo nano /boot/config.txt```
 
