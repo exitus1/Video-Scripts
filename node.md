@@ -199,9 +199,9 @@ If you do not wish to run TOR, make sure to forward the 9108 Port. If you choose
 
 TOR is free and open-source software for enabling anonymous communication.
 
-If you'd like a more in-deth explanation of what all of the commands do i'd reccommend checking out Kozel's Guide: [guide on setting up TOR](https://github.com/artikozel/decred-articles/blob/master/English/howilearnedtostopworryingandlovethecli/part2-configuringtor.md)
+If you'd like a more in-depth explanation of what all of the commands do I'd reccommend checking out Kozel's Guide: [guide on setting up TOR](https://github.com/artikozel/decred-articles/blob/master/English/howilearnedtostopworryingandlovethecli/part2-configuringtor.md)
 
-- Open the raspberry pi terminal:
+- Open the Raspberry pi terminal:
 
 - Run ```sudo apt install tor```
 
