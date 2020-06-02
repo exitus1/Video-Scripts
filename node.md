@@ -37,7 +37,7 @@ You’ll need to decide if you want to set your pi up “headless” meaning you
 
 #### Step 2. Headless Setup
 
-For the headless setup, plug your SD card or SSD back in. **you’ll need to create a text file in your boot drive titled** ```ssh```
+For the headless setup, plug your SD card or SSD back in. **you’ll need to create a blank text file in your boot drive titled** ```ssh```
 
 If you plan on **sshing into your pi wirelessly**, there’s another step where you need to create a text file titled ```wpa_supplicant.conf``` and input the following in the document:
 
@@ -59,7 +59,7 @@ Save the file once you are done.
 
 Right click the drive and click eject.
 
-Plug your SD card into your Pi, plug in the power, plug in your ethernet cable (if need), and boot up your pi.
+Plug your SD card into your Pi, plug in the power, plug in your ethernet cable (if needed), and boot up your pi.
 
 
 If you are doing this process directly connecting your pi to a monitor, you should see the pi boot up and you’ll be presented with the homescreen.
@@ -218,7 +218,7 @@ HiddenServicePort 9108 127.0.0.1:9108
 Press Control and X at the same time when you are finished. Save to the same file location.
 Hit enter to continue.
 
-restart the tor service with ```sudo systemctl restart tor@default.service```
+Restart the tor service with ```sudo systemctl restart tor@default.service```
 
 Check Status to see if its working ```sudo systemctl status tor@default.service```
 
