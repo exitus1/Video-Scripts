@@ -240,7 +240,7 @@ Hit enter to continue.
 Edit the top of the file with:
 ```
 proxy=127.0.0.1:9050
-listen=
+listen=127.0.0.1
 externalip=Your-Onion-From-Above.onion
 torisolation=1
 ```
