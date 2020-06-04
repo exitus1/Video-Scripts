@@ -1,4 +1,4 @@
-*NOTE: This tutorial is geared towards low-end users who are just looking to run a node to help support the Decred network. For that reason, it does not dive into staking, setting up a wallet, or anything else beyond getting the node running with TOR.*
+*NOTE: This tutorial is geared towards low-end users who are just looking to run a node to help support the Decred network. For that reason, it does not dive into staking, setting up a wallet, or anything else beyond getting the node running with TOR. This guide will be updated as needed per new releases and tweaks*
 
 ## Raspberry Pi Full Node With Tor Guide
 
