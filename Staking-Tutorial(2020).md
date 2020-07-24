@@ -1,3 +1,5 @@
+Video: https://youtu.be/m5lcm6yttEk
+
 ***Decred Staking Tutorial***
 
 In this tutorial I'll show you how easy and quick it is to Stake Decred in Decred’s graphical wallet Decredition.
