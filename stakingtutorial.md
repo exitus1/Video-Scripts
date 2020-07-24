@@ -1,3 +1,5 @@
+***Decred Staking Tutorial***
+
 In this tutorial I'll show you how easy and quick it is to Stake Decred in Decred’s graphical wallet Decredition.
 
 Decred’s governance is based on the principle of ticket-holder voting. To participate in governance, users must time-lock ( or Stake) Decred to purchase tickets. 
@@ -51,12 +53,12 @@ So, that's it! That’s how easy it is to become a stakeholder and participate i
 
  Now let's take a look at the different phases your newly purchased ticket will now go through.
 
-First, your ticket enters the mempool. This is where your ticket waits to be mined by PoW miners.
-Once your ticket is mined into a block, it becomes immature. This state lasts for 256 blocks ( or about 20 hours). During this time the ticket cannot vote. 
-After your ticket matures, it enters the Ticket Pool and becomes “Live” (or unspent), which means it is eligible for voting, and can be chosen at any time.
-Once your ticket has been chosen, your funds will need another 20 hours to become spendable again. You will receive the original cost of the ticket, plus the block reward, minus the VSP fee. As of this video, the block reward is 0.91 DCR per voted ticket.
-On average, live tickets vote within 28 days, but it can take as long as 142 days to vote. If a ticket does not vote within this window, it expires, and the ticket fee is lost ( but don’t worry, the cost price of the ticket is refunded). There is a chance of less than 0.5% that this will happen to you.
-It’s important to understand that once you have purchased a ticket, there is NO WAY for your funds to unlock until the Ticket votes, misses, or expires. As I just said, this could possibly take up to 142 days. What this means is Stakeholders in Decred have skin in the game. They are incentivized not to make bad decisions, as they can’t just pull their funds out whenever they so desire.
+- First, your ticket enters the mempool. This is where your ticket waits to be mined by PoW miners.
+- Once your ticket is mined into a block, it becomes immature. This state lasts for 256 blocks ( or about 20 hours). During this time the ticket cannot vote. 
+- After your ticket matures, it enters the Ticket Pool and becomes “Live” (or unspent), which means it is eligible for voting, and can be chosen at any time.
+- Once your ticket has been chosen, your funds will need another 20 hours to become spendable again. You will receive the original cost of the ticket, plus the block reward, minus the VSP fee. As of this video, the block reward is 0.91 DCR per voted ticket.
+- On average, live tickets vote within 28 days, but it can take as long as 142 days to vote. If a ticket does not vote within this window, it expires, and the ticket fee is lost ( but don’t worry, the cost price of the ticket is refunded). There is a chance of less than 0.5% that this will happen to you.
+- It’s important to understand that once you have purchased a ticket, there is NO WAY for your funds to unlock until the Ticket votes, misses, or expires. As I just said, this could possibly take up to 142 days. What this means is Stakeholders in Decred have skin in the game. They are incentivized not to make bad decisions, as they can’t just pull their funds out whenever they so desire.
 
 
 
