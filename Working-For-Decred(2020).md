@@ -1,3 +1,5 @@
+Video: https://youtu.be/Ud4LVhFwL9g
+
 ## CMS Video Script
 So every so often I have someone come along and message me : "Hey I'm a Talented Developer, I want to work for Decred, Can I speak to your CEO?"
 
