@@ -1,3 +1,5 @@
+## News Update July 31st, 2020 - Transcript including links to sources
+
 Hello everyone, welcome to a new Decred Bi-weekly News Update. Lately, there has been a ton of discussion around Marketing and how we can bring Decred to the masses, and get this project the recognition it deserves. Discussions are taking place on the decred Subreddit, discord and on chat.decred.org
 
 This effort is being spearheaded by popular on-chain research analyst Checkmate who has been regularly driving discussion weekly on Reddit on how we can improve the Decred protocol, and discuss any skepticisms the community may have.
