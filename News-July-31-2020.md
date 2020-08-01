@@ -18,7 +18,7 @@ https://twitter.com/XTexchange/status/1281867070653816832
 
 Decred has been listed on the xt.com exchange with BTC and USDT pairs. The exchange does offer up to 20 times leverage on trades.
 
-https://insidecryptotoday.com/politeia-a-platform-for-stellar-governance-of-decred (took pictures)
+https://insidecryptotoday.com/politeia-a-platform-for-stellar-governance-of-decred 
 
 Inside Crypto Today wrote up an article on Politeia explaining how the platform facilitates Decred’s governance and the lifecycle of proposals. It’s great to see more eyes on Politeia, with the author clearly understanding its importance for the Decred DAO.
 
