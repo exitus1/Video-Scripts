@@ -42,6 +42,8 @@ The DEX is going to be one of many examples of rigged systems unrigged via the D
 
 Leave a comment in the video description if you think Decred should embrace the Defi Hashtag, or stay away from it to avoid being lumped in with unfavorable projects.
 
+https://github.com/decred
+
 Dcrd version 1.6.0 is 95% complete as per github. This release is absolutely huge for the project as it will add privacy and decentralized treasury spending among other important updates. I believe marketing efforts will be much more fruitful once we have these core features in place, as they really
 
 
@@ -68,15 +70,15 @@ https://www.youtube.com/watch?v=oG3CUT9kziE&t=3797s
 
 Chris Burniske of Placeholder mentioned Decred on the Bankless Podcast:
 
+https://decredindepth.libsyn.com/
+
 The latest Decred in Depth Podcast roundup has been released:
 
 Richard Red Created a fun clay animation video featuring a ticket that is called to vote immediately after entering the ticket pool. Remember, tickets are chosen pseudorandomly once entering the ticketpool, though it usually takes around 1 month. Check out my How To Stake video on this channel to see just how easy it is to buy tickets of your own. Maybe yours will be called to vote in the next block, but no promises.
 
+https://proposals.decred.org/
+
 On Politeia we have 3 new proposals being discussed and one proposal that has finished voting.
-
-Monde PR’s Proposal to continue Public Relations and Media efforts has passed with 90% yes votes and a voter turnout of 25% with over 10,000 votese cast.
-
-A proposal must have 60% yes votes in order to pass with at least a 20% voter quorum. 
 
 The Augmented Reality Posters proposal from Mission and Sylvia is currently up for discussion.
 
@@ -110,6 +112,10 @@ For a cost of $51,500 USD payable in Decred, Travala will integrate Decred on th
 Travala claims advertising and adding DCR as a payment method for their services will bring about more exposure, help reach bigger audiences, and create a massive use case for Decred on millions of available products through their platform.
 
 Comments are still on-going.
+
+Monde PR’s Proposal to continue Public Relations and Media efforts has passed with 90% yes votes and a voter turnout of 25% with over 10,000 votese cast.
+
+A proposal must have 60% yes votes in order to pass with at least a 20% voter quorum. 
 
 You can join in on the discussion by going to proposals.decred.org and making an account.
 
