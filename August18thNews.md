@@ -5,12 +5,12 @@ We’ll start today with development updates which are arguably the most importa
 A video of the new unreleased desktop Wallet called GoDCR from RaeDah Group has been published showing off how the wallet will look and feel. Having more wallet variants will only help strengthen the Decred ecosystem.
 
 There are a number of updates to the Contractor Management System including
-admins searching contractors by domain or type
-displaying proposal names instead of tokens in invoice line items
-assigning proposal ownership via a graphical user interface
-admin review of proposal spending summary and details
-A new tab for proposal owners to review billing details
-and highlighting for illegal characters in invoice line items
+- admins searching contractors by domain or type
+- displaying proposal names instead of tokens in invoice line items
+- assigning proposal ownership via a graphical user interface
+- admin review of proposal spending summary and details
+- A new tab for proposal owners to review billing details
+- and highlighting for illegal characters in invoice line items
 
 As shown in this photo privacy wallets are now being tested on testnet. Decred’s privacy on Decredition draws ever so closer.
 
@@ -22,18 +22,19 @@ JZ says $DCR's treasury will have more original code than many top 10 coins do.
 
 Decred DEX Updates include:
 
-smart fee rate handling
-improved wallet locking of coins that fund orders
-additional server administration functions like ban, unban, notify, and notify all
+- smart fee rate handling
+- improved wallet locking of coins that fund orders
+- additional server administration functions like ban, unban, notify, and notify all
 or orders with revoked (failed) matches, the order is automatically unbooked and the clients are notified
-the client now automatically resubscribes to the order book feed after a reconnection with the server
+- the client now automatically resubscribes to the order book feed after a reconnection with the server
 
 
 
 
-the client now automatically resubscribes to the order book feed after a reconnection with the server
+- the client now automatically resubscribes to the order book feed after a reconnection with the server
 client browser interface polish
-And numerous bug fixes and optimizations
+- And numerous bug fixes and optimizations
+
 Get Stakey says Seeing the dex screenshots does it no justice. Doing atomic swaps with other people on testnet is just too freakin cool.
 There have been many updates to Decred’s lightning network including
 
