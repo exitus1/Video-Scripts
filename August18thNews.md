@@ -36,13 +36,15 @@ client browser interface polish
 - And numerous bug fixes and optimizations
 
 Get Stakey says Seeing the dex screenshots does it no justice. Doing atomic swaps with other people on testnet is just too freakin cool.
+
 There have been many updates to Decred’s lightning network including
 
-Updates to use the latest dcrwallet and dcrd
-new chainscan package that uses committed filters to detect transactions relevant for the LN node more efficiently and can also operate in SPV mode.
-switched the main dcrlnd package to use the new wallet-backed drivers.
-enable and test SPV mode for remote wallets 
-ported upstream lnd changes among other improvements
+- Updates to use the latest dcrwallet and dcrd
+- new chainscan package that uses committed filters to detect transactions relevant for the LN node more efficiently and can also operate in SPV mode.
+- switched the main dcrlnd package to use the new wallet-backed drivers.
+- enable and test SPV mode for remote wallets 
+- ported upstream lnd changes among other improvements
+
 Once again I’d highly recommend subscribing to the Decred Journal on Medium to see every single Dev update.
 
 There was also lots of community activity.
