@@ -56,11 +56,11 @@ The YouTube channel LiteLiger published a video called Top 5 Bullish Signals for
 
 The 5 signals he lists are:
 
-Arkinvest who has been endorsed by Elon Musk is carefully looking at Decred
-Coinbase head of listings picked decred as one of his top coins
-The Decred DEX development
-Privacy in the GUI wallet
-And the Decentralization of the treasury.
+- Arkinvest who has been endorsed by Elon Musk is carefully looking at Decred
+- Coinbase head of listings picked decred as one of his top coins
+- The Decred DEX development
+- Privacy in the GUI wallet
+- And the Decentralization of the treasury.
 
 I really couldn’t agree more with these signals, they are all super bullish and should have everyone excited about what is in store for the Decred Project.
 
@@ -73,32 +73,26 @@ Decred Brasil also released a new 30 minute explainer video which has proven to 
 Michael2xl of the brazilian community was on the BItcointoYou YouTube channel’s Livestream where he presented Decred for nearly 1 hour.
 
 OfficialCryptos is has created a set of Decred stickers now available to order.
+
 Checkmate published some of his research work to Our Network issue 34 where his research was first on the list.
+
 He details some on-chain metrics like miner pulse, daily transactions, Treasury voting power, among other metrics.
+
 https://medium.com/@permabullnino/decred-on-chain-mini-pub-3-difficulty-ribbon-price-d644e470b989
 
 PermabullNino released his 3rd mini publication about the Difficulty Ribbon Price. The difficulty ribbon is an on-chain tool created by Willy Woo in order to track distress among miners.
+
 From his research, Permabull says ASIC introduction has had a massive impact on Decred price action, and likely caused it to have a particularly tough bear market recovery
 and Mining profitability will likely never return to early ASIC levels, which likely means that less bleed-out will be required to put in Decred’s next bear market bottom.
 Decred society has a new video about BlockChain Data Health:
+
 Two new excellent podcasts were published.
+
 Ammar Naseer was on Decred in depth to talk, Hyperinflation, Sound Money and DCR’s Role
 
 Rough Consensus’s Episode was about the emergence of an early Bull market
 
 Rough Consensus will soon be releasing an episode done with altcoin guru notsofast so stay tuned for that.
-
-We had several new Politeia Proposals published for discussion. Soon These proposals will go up for vote so make you have your tickets already purchased so you won’t miss out on casting your vote and having a voice in the direction of the project.
-
-
-
-
-
-
-
-
-
-
 
 Now lets briefly go over some network stats for the month of July
 In July the Treasury received 13,050 DCR and spent 16,073 DCR. This is $197K received and $243K spent. As of Aug 17th, the Treasury balance is 637,423 DCR or 11.3 Million USD
@@ -106,7 +100,11 @@ In July the Treasury received 13,050 DCR and spent 16,073 DCR. This is $197K rec
 Staking: The 30-day average ticket price was 144.3 DCR (+4.9 from last month) with the circulating DCR staked still hovering around 50% of the total available supply.
 Throughout July there was an average of 134 public listening nodes and 241 total nodes per dcr.farm
 If you’d like to spin up your own node on a raspberry pi be sure to check out the guide on this channel, it is geared towards new users.
+
+We had several new Politeia Proposals published for discussion. Soon These proposals will go up for vote so make you have your tickets already purchased so you won’t miss out on casting your vote and having a voice in the direction of the project.
+
 Marketing Decred - Twitter/Social Media, Educational Videos, Ads --- by fst_nml
+
 This proposal requests $10,000 USD payable in DCR to fund a number of marketing strategies to drive traffic to Decred and generate new user interest.
 
 Strategies include Twitter and social media paid ads, endorsements, and promotional content.
