@@ -54,13 +54,9 @@ Views on various videos uploaded to Twitter: 18,291
 
 I would like to see these numbers much higher, however, I feel that this overlaps with wider discussion surrounding how to facilitate marketing and bring more awareness to the project. More general awareness of Decred will naturally see more hits and subs on the Decred YouTube Channel.
 
-With the absence of Marketing Lead Dustorf and thus the suspension of most of the funds for The United States Marketing Proposal (Marketing for the English speaking world) external marketing efforts to bring users to our platforms has been somewhat minimal over the past 6 months.
+With the absence of Marketing Lead Dustorf and thus the suspension of most of the funds for The United States Marketing Proposal (Marketing for the English speaking world) external marketing efforts to bring users to our platforms has been somewhat minimal over the past 6 months. I am convinced that with more unique, community focused marketing efforts we can boost numbers for content produced across all mediums, not just videos.
 
-I am convinced that with more unique, community focused marketing efforts we can boost numbers for content produced across all mediums, not just videos.
-
-Throughout Phase 1 I recieved lots of positive feedback, which I was happy to see. I look forward to creating more videos for the Decred community.
-
-If anyone has any thoughts, ideas, or would like to work with me, please feel free to message me on Matrix/Twitter.
+Throughout Phase 1 I recieved lots of positive feedback, which I was happy to see. I look forward to creating more videos for the Decred community. If anyone has any thoughts, ideas, or would like to work with me, please feel free to message me on Matrix/Twitter.
 
 Note: I had planned for more videos during Phase 1 in hopes that 1.6.0 would be released. I’d prefer to create videos for that release once those features are thoroughly polished and live so the videos will be more tangible to viewers and not just “ Feature X, Y, and Z is Coming Soon™”.
 
