@@ -58,7 +58,7 @@ With the absence of Marketing Lead Dustorf and thus the suspension of most of th
 
 Throughout Phase 1 I recieved lots of positive feedback, which I was happy to see. I look forward to creating more videos for the Decred community. If anyone has any thoughts, ideas, or would like to work with me, please feel free to message me on Matrix/Twitter.
 
-Note: I had planned for more videos during Phase 1 in hopes that 1.6.0 would be released. I’d prefer to create videos for that release once those features are thoroughly polished and live so the videos will be more tangible to viewers and not just “ Feature X, Y, and Z is Coming Soon™”.
+*Note*: I had planned for more videos during Phase 1 in hopes that 1.6.0 would be released. I’d prefer to create videos for that release once those features are thoroughly polished and live so the videos will be more tangible to viewers and not just “ Feature X, Y, and Z is Coming Soon™”.
 
 ## Budget & Duration:
 
