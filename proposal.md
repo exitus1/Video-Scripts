@@ -9,11 +9,11 @@ VIdeo content is arguably the most popular form of media today. Having a presenc
 ## What Kind Of Work Is Involved in This Proposal?
 
 - Bi-weekly News Updates displaying general news and progress that the project is making.
-- Explainer and “How To” videos.
+- Explainer and “How To” videos. I look forward to creating videos on how to use LN, the DEX, Privacy, etc
 - General Decred Videos
 - Smaller form Videos for the likes of Twitter.
 - Video editing support for any community members that may request it.
-- Video material for Events
+- Video material for Events (Example: Consensus 2020)
 
 Videos are uploaded to Decred's YouTube Channel.
 
@@ -45,7 +45,9 @@ Metrics are an important way to gauge what works and what doesn’t work. While 
 
 Bitchute View Count: 1,531 (Channel started April 14th)
 
-Views on various videos uploaded to Twitter: 18,291 (10,300 from Cathie Wood clip)
+Views on various videos uploaded to Twitter: 18,291 
+
+## Thoughts
 
 I would like to see these numbers much higher, however, I feel that this overlaps with wider discussion surrounding how to facilitate marketing and bring more awareness to the project. More general awareness of Decred will naturally see more hits and subs on the Decred YouTube Channel.
 
