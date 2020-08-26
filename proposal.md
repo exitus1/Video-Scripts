@@ -4,7 +4,7 @@ The purpose of this proposal is to continue a budget for work involving the crea
 
 ## Why?
 
-Video content is arguably the most popular form of media today. Having a presence on platforms like YouTube, Bitchute, and even Twitter is paramount to promoting the project and helping spread awareness and educating new users. Utitilzing YouTube is a powerful way to show off the project's updates, progress, and bring in new users.
+Video content is arguably the most popular form of media today. Having a presence on platforms like YouTube, Bitchute, and even Twitter is paramount to promoting the project and helping spread awareness and educating new users. Utitilzing YouTube is a powerful way to show off the project's updates, progress, and have new eyes on the project.
 
 
 ## What Kind Of Work Is Involved in This Proposal?
