@@ -43,6 +43,7 @@ Metrics are an important way to gauge what works and what doesn’t work. While 
 | Channel Pages    | 9.2%  |
 | Others           | 12.5% |
 
+Most popular video: DCR 101 - How to Stake Decred [2020]: 1,514 Views
 Bitchute View Count: 1,531 (Channel started April 14th)
 
 Views on various videos uploaded to Twitter: 18,291 
