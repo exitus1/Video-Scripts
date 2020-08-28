@@ -20,7 +20,9 @@ Videos are uploaded to Decred's YouTube & Bitchute Channel.
 
 ## Who?
 
-Work is done by myself, Exitus. I have been a Decred advocate and Stakeholder for over 3 years.
+Exitus. I have been a Decred advocate and Stakeholder for over 3 years. Please check the Decred YouTube Channel to see content from Phase 1 that I created.
+
+Checkmate. I recruited Checkmate for Phase 2 to help me with writing some scripts, and as someone I could just bounce ideas and get feedback from on an on-going basis.
 
 
 ## Metrics from Phase 1
