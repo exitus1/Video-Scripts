@@ -4,7 +4,7 @@ The purpose of this proposal is to continue a budget for work involving the crea
 
 ## Why?
 
-Video content is arguably the most popular form of media today. Having a presence on platforms like YouTube, Bitchute, and even Twitter is paramount to promoting the project and helping spread awareness and educating new users. Utitilzing YouTube is a powerful way to show off the project's updates, progress, and have new eyes on the Decred ecosystem.
+Video content is arguably the most popular form of media today. Having a presence on platforms like YouTube, Bitchute, and even Twitter is paramount to promoting the project and helping spread awareness and educating new users. Utitilzing YouTube is a powerful way to show off the project's updates, progress, and get new eyes on the Decred ecosystem.
 
 
 ## What Kind Of Work Is Involved in This Proposal?
@@ -13,8 +13,9 @@ Video content is arguably the most popular form of media today. Having a presenc
 - Explainer and “How To” videos. I look forward to creating videos on how to use LN, the DEX, Privacy, etc
 - General Decred Videos
 - Smaller form Videos for the likes of Twitter.
-- Video editing support for any community members that may request it. (Example: DCR Australia, Checkmate, etc)
+- Video editing support for any community members that may request it. (Example: DCR Australia, Checkmate's Research, etc)
 - Video material for Events (Example: Consensus 2020)
+- Broader CryptoCurrency Videos similar to what DCR Brasil accomplished on their YouTube channel.
 
 Videos are uploaded to Decred's YouTube & Bitchute Channel.
 
@@ -22,7 +23,9 @@ Videos are uploaded to Decred's YouTube & Bitchute Channel.
 
 Exitus. I have been a Decred advocate and Stakeholder for over 3 years. Please check the Decred YouTube Channel to see content from Phase 1 that I created.
 
-Checkmate. I recruited Checkmate for Phase 2 to help me with writing some scripts, and as someone I could just bounce ideas and get feedback from on an on-going basis.
+Checkmate. I recruited Checkmate for Phase 2 to assist me with writing some of the more broad non-Decred scripts, and as someone I could just bounce ideas and get feedback from on an on-going basis.
+
+Please see Checkmate's Medium.com account to his published research pieces. 
 
 
 ## Metrics from Phase 1
@@ -64,7 +67,7 @@ Throughout Phase 1 I recieved lots of positive feedback, which I was happy to se
 
 ## Budget & Duration:
 
-Max cap of $2,500/Month payable in Decred, invoiced via the Contractor Management System. 
+Maximum cap of $2,700/Month payable in Decred, invoiced via the Contractor Management System. 
 
 Starting immediately and ending in 6 months time.
 
