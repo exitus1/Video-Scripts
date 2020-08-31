@@ -23,7 +23,7 @@ Videos are uploaded to Decred's YouTube & Bitchute Channel.
 
 Exitus. I have been a Decred advocate and Stakeholder for over 3 years. Please check the Decred YouTube Channel to see content from Phase 1 that I created.
 
-Checkmate. I recruited Checkmate for Phase 2 to assist me with writing some of the more broad non-Decred scripts, and as someone I could just bounce ideas and get feedback from on an on-going basis.
+Checkmate. I recruited Checkmate for Phase 2 to assist me with writing some of the more broad non-Decred scripts, and as someone I could just bounce ideas off of and get feedback from on an on-going basis.
 
 Please see Checkmate's Medium.com account to his published research pieces. 
 
