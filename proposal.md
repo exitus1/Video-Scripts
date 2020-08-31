@@ -25,7 +25,7 @@ Exitus. I have been a Decred advocate and Stakeholder for over 3 years. Please c
 
 Checkmate. I recruited Checkmate for Phase 2 to assist me with writing some of the more broad non-Decred scripts, and as someone I could just bounce ideas off of and get feedback from on an on-going basis.
 
-Please see Checkmate's Medium.com account to his published research pieces. 
+Please see Checkmate's Medium.com account to view his published research pieces. 
 
 
 ## Metrics from Phase 1
@@ -34,11 +34,11 @@ Metrics are an important way to gauge what works and what doesn’t work. While 
 
 | YouTube Metric| Value Over Last 6 Months |
 |-------------|---------|
-| Views       | 20,969  |
-| Like %      | 98.8%   |
-| Subs Gained | 470     |
-| Subs Lost   | 248     |
-| Comments    | 163     |
+| Views       | 21,402  |
+| Like %      | 98.9%   |
+| Subs Gained | 478     |
+| Subs Lost   | 255     |
+| Comments    | 170     |
 
 | Traffic Source   |   % Over Last 6 Months    |
 |------------------|-------|
@@ -49,11 +49,11 @@ Metrics are an important way to gauge what works and what doesn’t work. While 
 | Channel Pages    | 9.2%  |
 | Others           | 12.5% |
 
-Most popular video: DCR 101 - How to Stake Decred [2020]: 1,514 Views
+Most popular video: DCR 101 - How to Stake Decred [2020]: 1,587 Views
 
 Bitchute View Count: 1,531 (Channel started April 14th)
 
-Views on various videos uploaded to Twitter: 18,291 
+Views on various videos uploaded to Twitter: 18,500 
 
 ## Thoughts
 
