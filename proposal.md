@@ -15,7 +15,7 @@ Video content is arguably the most popular form of media today. Having a presenc
 - Smaller form Videos for the likes of Twitter.
 - Video editing support for any community members that may request it. (Example: DCR Australia, Checkmate's Research, etc)
 - Video material for Events (Example: Consensus 2020)
-- Broader CryptoCurrency Videos similar to what DCR Brasil accomplished on their YouTube channel.
+- Broader Crypto-Currency Videos similar to what the DCR Brasil team accomplished on their YouTube channel in order to attract a wider audience.
 
 Videos are uploaded to Decred's YouTube & Bitchute Channel.
 
