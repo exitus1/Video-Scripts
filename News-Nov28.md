@@ -123,9 +123,7 @@ It's truly fascinating to watch Politeia grow and the data around it be studied.
 https://cryptobriefing.com/politicians-brazil-use-decred-record-political-donations/
 https://en.cryptonomist.ch/2020/11/19/elections-in-brazil-donations-on-blockchain/
 
-Brazil Electoin!
-https://cointelegraph.com/news/friendliest-of-them-all-these-could-be-the-best-countries-for-crypto
-(SS TAKEN NEED TEXXT)
+
 ## Politeia
 #### Now lets take a look at what is currently going on with Politeia, Decred's Proposal Platform.
 
