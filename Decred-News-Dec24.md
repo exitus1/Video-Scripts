@@ -1,7 +1,7 @@
 
 Hi and welcome to this weeks Decred News update, I’m your host Exitus. We’ll be going over everything in the Decred Ecosystem. First up we’ll start with Development updates we are currently in RC4 For decred 1.6
 
-When starting up Decrediton Release Candidate 4, the first thing i noticed was the tabs in the wallets have been rearranged.
+When starting up Decrediton Release Candidate 4, the first thing I noticed was the tabs in the wallets have been rearranged.
 
 Normal transactions are called "on-chain" transactions, with Lightning Network Transactions just below it.
 
