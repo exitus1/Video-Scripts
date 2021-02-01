@@ -1,6 +1,10 @@
-### Privacy Tutorial
+## Privacy Tutorial
+
+#### Intro
 
 In this tutorial I will Explore Decred's Privacy features and show you how to anonymize your Decred using the Mixnet built right into Decred's Wallet Decredition. 
+
+#### Begin
 
 So here we have a wallet with 5 Decred. Everything we need is in the Privacy Tab located on the left hand side.
 
@@ -16,7 +20,7 @@ So first we need to send our Decred from our default account to the unmixed acco
 
 Now that our funds are in the unmixed account, we can start up the Mixer.
 
-Your Decred will sift through the mixer in increments, arriving in the Mixed account freshly anonymized, with all past history wiped away.
+Your Decred will sift through the mixer in increments, arriving in the Mixed account freshly anonymized, with all past history scrambled.
 
 The mixing occurs in epochs of 20 minutes, so it may take a bit of time for your mix to occur.
 
@@ -38,8 +42,10 @@ As of this video over 30% of all Decred in circulation has been mixed, with mixi
 
 Now that you've successfully mixed your Decred, you can safely transact knowing there is no history tied to your coins.
 
-Decred's CoinShuffle++ Mixing protocol was chosen because it's simplicity makes it audit-able, and it allows for blockchain pruning.
+Decred's CoinShuffle++ Mixing protocol, also called 'StakeShuffle" was chosen because it's simplicity makes it audit-able, and it allows for blockchain pruning.
 
 Because Decred is a cryptocurrency that has the ability to adapt and evolve with it's unique governance model, it is likely there will be more privacy improvements and features in the future.
+
+#### Outro
 
 Thanks for watching this tutorial, to learn more about Decred visit Decred.org
