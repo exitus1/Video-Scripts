@@ -42,9 +42,9 @@ As of this video over 30% of all Decred in circulation has been mixed, with mixi
 
 Now that you've successfully mixed your Decred, you can safely transact knowing there is no history tied to your coins.
 
-Decred's CoinShuffle++ Mixing protocol (also referred to as 'StakeShuffle') was chosen because it's simplicity makes it auditable, and it allows for blockchain pruning, meaning historical transaction can be dropped from full nodes, making the blockchain less cluttered, and more sustainable. It is also post-quantum ready,
+Decred's CoinShuffle++ Mixing protocol (also referred to as 'StakeShuffle') was chosen because it's simplicity makes it auditable, and it allows for blockchain pruning, meaning historical transaction can be dropped from full nodes, making the blockchain less cluttered, and more sustainable. It can also be modified to support Post-Quantum Cryptography, keeping mixing secure from attackers.
 
-Because Decred is a cryptocurrency that has the ability to adapt and evolve with it's unique governance model, it is likely there will be more privacy improvements and features in the future.
+Because Decred is a cryptocurrency that has the ability to adapt and evolve with it's unique governance model, it is very likely there will be more improvements and features regarding user privacy in the future.
 
 #### Outro
 
