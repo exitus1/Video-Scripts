@@ -24,7 +24,7 @@ Your Decred will sift through the mixer in increments, arriving in the Mixed acc
 
 The mixing occurs in epochs of 20 minutes, so it may take a bit of time for your mix to occur.
 
-The smallest amount of Decred that can be mixed is roughly 0.00262144 DCR
+The smallest amount of Decred that can be mixed is 0.00262144 DCR
 
 Decred's mixnet is integrated with its Proof of Stake system, so there is always plenty of other Decred to mix with.
 
