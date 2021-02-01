@@ -2,21 +2,21 @@
 
 #### Intro
 
-In this tutorial I will Explore Decred's Privacy features and show you how to anonymize your Decred using the Mixnet built right into Decred's Wallet Decredition. 
+In this tutorial I will Explore Decred's Privacy features and show you how to anonymize your Decred using the Mixnet built right into Decred's Wallet, Decredition. 
 
 #### Begin
 
-So here we have a wallet with 5 Decred. Everything we need is in the Privacy Tab located on the left hand side.
+So here we have a wallet with 5 unmixed Decred. Everything we need to perform mixing is in the Privacy Tab located on the left hand side.
 
-We'll need to authorize the wallet to create 2 new accounts, one called 'Umixed' and the Other Called 'Mixed'.
+We'll need to authorize the wallet to create two new accounts, one called 'Umixed' and the Other Called 'Mixed'.
 
 To do this click "Create Default Account" and enter your password.
 
-The way this works is the Mixer will pass your funds from your Unmixed account through the Decred Mixnet, with the newly mixed coins arriving in your Mixed Account. The mixer creates a Decred CoinJoin. A CoinJoin is a trustless method for combining multiple Decred payments from multiple spenders into a single transaction to make it more difficult for outside parties to determine which spender paid which recipient.
+The way this works is the Mixer will pass your funds from your Unmixed account through the Decred Mixnet, with the newly mixed coins arriving in your Mixed Account. The Mixer creates a Decred CoinJoin. A CoinJoin is a trustless method for combining multiple Decred payments from multiple spenders into a single transaction to make it more difficult for outside parties to determine which spender paid which recipient.
 
 This is a completely non-custodial process meaning you never lose ownership of your DCR, and there are no risks with mixing your Decred.
 
-So first we need to send our Decred from our 'Default' account to the 'Unmixed' account which we can do right here. There's a button you can press which will select all of the account funds, then press "Send to Self".
+First we need to send our Decred from our 'Default' account to our 'Unmixed' account which we can do right here. There's a button you can press which will select all of the account funds, then press "Send to Self".
 
 Now that our funds are in the 'Unmixed' account, we can start up the Mixer.
 
@@ -28,13 +28,13 @@ The smallest amount of Decred that can be mixed is 0.00262144 DCR
 
 Decred's mixnet is integrated with its Proof of Stake system, which currently holds over 7 Million DCR, so there is always plenty of other Decred to mix with.
 
-Notice by going to On-Chain Transactions you can only send from your mixed account, and receive into your unmixed account or default account. This is the wallets way of helping you not to mess up your privacy by keeping the mixed and unmixed Decred separate.
+Notice by going to On-Chain Transactions you can only send from your mixed account, and receive into your unmixed account or default account. This is the wallets way of helping you not to mess up your privacy by keeping your mixed and unmixed Decred separate.
 
 You can disable this feature if you'd prefer in the Privacy tab.
 
 You can also see all of the transactions that took place with the mixes, and the fees associated with them.
 
-These mixes are very cheap to perform, as you can see this mix only cost me $.002
+These mixes are very cheap to perform. As you can see, this mix only cost me $.002
 
 Now that you've enabled Privacy, you can privately stake, provided you have enough Decred to Purchase a ticket. I will cover the process of Staking in another tutorial.
 
