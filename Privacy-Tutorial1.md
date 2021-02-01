@@ -2,7 +2,7 @@
 
 #### Intro
 
-In this tutorial I will Explore Decred's Privacy features and show you how to anonymize your Decred using the Mixnet built right into Decred's Wallet, Decredition. 
+In this tutorial I will Explore Decred's Privacy features and show you how to anonymize your Decred using the Mixnet built right into Decred's Wallet, Decredition, with just a few mouse clicks. 
 
 #### Begin
 
@@ -12,7 +12,7 @@ We'll need to authorize the wallet to create two new accounts, one called 'Umixe
 
 To do this click "Create Default Account" and enter your password.
 
-The way this works is the Mixer will pass your funds from your Unmixed account through the Decred Mixnet, with the newly mixed coins arriving in your Mixed Account. The Mixer creates a Decred CoinJoin. A CoinJoin is a trustless method for combining multiple Decred payments from multiple spenders into a single transaction to make it more difficult for outside parties to determine which spender paid which recipient.
+The way this works is the Mixer will create a Decred CoinJoin, and will pass your funds from your Unmixed account through the Decred Mixnet, with the newly mixed coins arriving in your Mixed Account. A CoinJoin is a trustless method for combining multiple Decred payments from multiple spenders into a single transaction to make it more difficult for outside parties to determine which spender paid which recipient.
 
 This is a completely non-custodial process meaning you never lose ownership of your DCR, and there are no risks with mixing your Decred.
 
@@ -36,11 +36,15 @@ You can also see all of the transactions that took place with the mixes, and the
 
 These mixes are very cheap to perform. As you can see, this mix only cost me $.002
 
-Now that you've enabled Privacy, you can privately stake, provided you have enough Decred to Purchase a ticket. I will cover the process of Staking in another tutorial.
+Now that you've successfully mixed your Decred, you can safely transact knowing there is no history tied to your coins.
+
+You can also now privately stake, provided you have enough Decred to Purchase a ticket. I will cover the process of Staking in another tutorial.
 
 As of this video over 30% of all Decred in circulation has been mixed, with mixing participation growing every day. The goal is for Decred to be a fungible cryptocurrency, where every unit of Decred is equal to every other unit. The more Decred Mixed, the more fungible it becomes.
 
-Now that you've successfully mixed your Decred, you can safely transact knowing there is no history tied to your coins.
+At current numbers, an average of 250,000 Decred is mixed every day. This is significantly larger than the amount of Bitcoin mixed, which only amounts to 50,000 BTC per month.
+
+Decred's broad Mixing participation allows for much more efficient mixes and fungilbity. Furthermore, Decred's Mixing is much easier and cheaper compared to Bitcoin's. 
 
 Decred's CoinShuffle++ Mixing protocol (also referred to as 'StakeShuffle') was chosen because it's simplicity makes it auditable, and it allows for blockchain pruning, meaning historical transaction can be dropped from full nodes, making the blockchain less cluttered, and more sustainable. It can also be modified to support Post-Quantum Cryptography, keeping mixing secure from attackers.
 
@@ -48,4 +52,4 @@ Because Decred is a cryptocurrency that has the ability to adapt and evolve with
 
 #### Outro
 
-Thanks for watching this tutorial, to learn more about Decred's Doucmentation, visit docs.decred.org, or check out Decred's website at Decred.org
+Thanks for watching this tutorial, to learn more about Decred's Doucmentation, visit docs.decred.org, or check out Decred's website at Decred.org. You can also see all of the privacy charts for yourself by visiting Decred's Block Explorer at dcrdata.org
