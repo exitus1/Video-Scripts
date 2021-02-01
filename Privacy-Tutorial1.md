@@ -44,7 +44,7 @@ As of this video over 30% of all Decred in circulation has been mixed, with mixi
 
 At current numbers, an average of 250,000 Decred is mixed every day. This is significantly larger than the amount of Bitcoin mixed, which only amounts to 50,000 BTC per month.
 
-Decred's broad Mixing participation allows for much more efficient mixes and fungilbity. Furthermore, Decred's Mixing is much easier and cheaper compared to Bitcoin's. 
+Decred's broad Mixing participation allows for much more efficient mixes and fungilbity. Furthermore, Decred's Mixing is much easier to perform and cheaper compared to Bitcoin's. 
 
 Decred's CoinShuffle++ Mixing protocol (also referred to as 'StakeShuffle') was chosen because it's simplicity makes it auditable, and it allows for blockchain pruning, meaning historical transaction can be dropped from full nodes, making the blockchain less cluttered, and more sustainable. It can also be modified to support Post-Quantum Cryptography, keeping mixing secure from attackers.
 
