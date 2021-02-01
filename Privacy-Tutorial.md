@@ -1,6 +1,10 @@
-### Privacy Tutorial
+## Privacy Tutorial
 
+
+### Intro
 In this tutorial I will Explore Decred's Privacy features and show you how to anonymize your Decred using the Mixnet built right into Decred's Wallet Decredition. 
+
+### Begin Tutorial In Wallet
 
 So here we have a wallet with 5 Decred. Everything we need is in the Privacy Tab located on the left hand side.
 
