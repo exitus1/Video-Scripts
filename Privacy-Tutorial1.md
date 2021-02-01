@@ -26,7 +26,7 @@ The mixing occurs in epochs of 20 minutes, so it may take a bit of time for your
 
 The smallest amount of Decred that can be mixed is 0.00262144 DCR
 
-Decred's mixnet is integrated with its Proof of Stake system, so there is always plenty of other Decred to mix with.
+Decred's mixnet is integrated with its Proof of Stake system, which currently holds over 7 Million DCR, so there is always plenty of other Decred to mix with.
 
 Notice by going to On-Chain Transactions you can only send from your mixed account, and receive into your unmixed account or default account. This is the wallets way of helping you not to mess up your privacy by keeping the mixed and unmixed Decred separate.
 
