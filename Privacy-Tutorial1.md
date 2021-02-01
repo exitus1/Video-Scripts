@@ -42,7 +42,7 @@ You can also now privately stake, provided you have enough Decred to Purchase a 
 
 As of this video over 30% of all Decred in circulation has been mixed, with mixing participation growing every day. The goal is for Decred to be a fungible cryptocurrency, where every unit of Decred is equal to every other unit. The more Decred Mixed, the more fungible it becomes.
 
-At current numbers, an average of 250,000 Decred is mixed every day. This is significantly larger than the amount of Bitcoin mixed, which only amounts to 50,000 BTC per month.
+At current numbers, an average of 250,000 Decred is mixed every day. This is significantly larger than the amount of Bitcoin mixed, which only amounts to roughly 50,000 BTC per month.
 
 Decred's broad Mixing participation allows for much more efficient mixes and fungilbity. Furthermore, Decred's Mixing is much easier to perform and cheaper compared to Bitcoin's. 
 
