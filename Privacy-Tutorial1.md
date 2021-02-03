@@ -1,4 +1,4 @@
-## Privacy Tutorial
+## Decred Privacy Tutorial: Anonymize Your Coins!
 
 #### Intro
 
@@ -34,7 +34,9 @@ You can disable this feature if you'd prefer in the Privacy tab.
 
 You can also see all of the transactions that took place with the mixes, and the fees associated with them.
 
-These mixes are very cheap to perform. As you can see, this mix only cost me $.002
+These mixes are very cheap to perform. As you can see, this mix only cost me less than one cent.
+
+We can further explore the mix by taking a looking at it on the block explorer. We can see here the total mix fee for the all of the participants, and the number of outputs created.
 
 Now that you've successfully mixed your Decred, you can safely transact knowing there is no history tied to your coins.
 
