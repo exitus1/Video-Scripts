@@ -12,10 +12,6 @@ We'll need to authorize the wallet to create two new accounts, one called 'Umixe
 
 To do this click "Create Default Account" and enter your password.
 
-The way this works is the Mixer will create a Decred CoinJoin, and will pass your funds from your Unmixed account through the Decred Mixnet, with the newly mixed coins arriving in your Mixed Account. A CoinJoin is a trustless method for combining multiple Decred payments from multiple spenders into a single transaction to make it more difficult for outside parties to determine which spender paid which recipient.
-
-This is a completely non-custodial process meaning you never lose ownership of your DCR, and there are no risks with mixing your Decred.
-
 First we need to send our Decred from our 'Default' account to our 'Unmixed' account which we can do right here. There's a button you can press which will select all of the account funds, then press "Send to Self".
 
 Now that our funds are in the 'Unmixed' account, we can start up the Mixer.
@@ -24,9 +20,11 @@ Your Decred will sift through the mixer in increments, arriving in the Mixed acc
 
 The mixing occurs in epochs of 20 minutes, so it may take a bit of time for your mix to occur.
 
-The smallest amount of Decred that can be mixed is 0.00262144 DCR
+The way this works is the Mixer will create a Decred CoinJoin, and will pass your funds from your Unmixed account through the Decred Mixnet, with the newly mixed coins arriving in your Mixed Account. A CoinJoin is a trustless method for combining multiple Decred payments from multiple spenders into a single transaction to make it more difficult for outside parties to determine which spender paid which recipient.
 
-Decred's mixnet is integrated with its Proof of Stake system, which currently holds over 7 Million DCR, so there is always plenty of other Decred to mix with.
+This is a completely non-custodial process meaning you never lose ownership of your DCR, and there are no risks with mixing your Decred.
+
+The smallest amount of Decred that can be mixed is 0.00262144 DCR
 
 Notice by going to On-Chain Transactions you can only send from your mixed account, and receive into your unmixed account or default account. This is the wallets way of helping you not to mess up your privacy by keeping your mixed and unmixed Decred separate.
 
@@ -36,11 +34,13 @@ You can also see all of the transactions that took place with the mixes, and the
 
 These mixes are very cheap to perform. As you can see, this mix only cost me less than one cent.
 
-We can further explore the mix by taking a looking at it on the block explorer. We can see here the total mix fee for the all of the participants, and the number of outputs created.
+We can further explore the mix by taking a lookat it on the block explorer. We can see here the total mix fee for the all of the participants, and the number of outputs created.
 
 Now that you've successfully mixed your Decred, you can safely transact knowing there is no history tied to your coins.
 
 You can also now privately stake, provided you have enough Decred to Purchase a ticket. I will cover the process of Staking in another tutorial.
+
+Decred's mixnet is integrated with its Proof of Stake system, which currently holds over 7 Million DCR, so there is always plenty of other Decred to mix with.
 
 As of this video over 30% of all Decred in circulation has been mixed, with mixing participation growing every day. The goal is for Decred to be a fungible cryptocurrency, where every unit of Decred is equal to every other unit. The more Decred Mixed, the more fungible it becomes.
 
