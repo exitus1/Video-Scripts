@@ -144,13 +144,13 @@ Now we need to download the DCR installer.
 
 - Navigate to the decred.org website.
 
-Scroll down and look for the green "Stable V1.5.2" button.
+Scroll down and look for the green "Stable V1.6.0" button.
 
 Newer releases will be a different version.
 
 Clicking this will bring us to Decred's github releases page.
 
-- Download ```dcrinstall-linux-arm-v1.5.2```
+- Download ```dcrinstall-linux-arm-v1.6.0```
 
 Again, there may be a newer version out. Make sure to download the latest version.
 
@@ -158,7 +158,7 @@ Again, there may be a newer version out. Make sure to download the latest versio
 
 - Run ```cd ~/Downloads/```
 
-- Run ```sudo chmod u+x dcrinstall-linux-arm-v1.5.2```
+- Run ```sudo chmod u+x dcrinstall-linux-arm-v1.6.0```
 
 - Navigate to your downloads folder. Double click the installer, execute the installer in Terminal
 
@@ -185,11 +185,11 @@ Now we can start the node:
 - Run:
  
 ```
-cd ./decred/decred-linux-arm-v1.5.2
+cd ./decred/decred-linux-arm-v1.6.0
 ./dcrd
 ```
 
-Make sure to change the version number if the current version is no longer v1.5.2 (e.g v1.6.0)
+Make sure to change the version number if the current version is no longer v1.6.0 (e.g v1.7.0)
 
 The Decred daemon will boot up and start connecting to peers
 
@@ -254,7 +254,7 @@ Run your Decred node with
 
 ```
 cd
-cd ./decred/decred-linux-arm-v1.5.2
+cd ./decred/decred-linux-arm-v1.6.0
 ./dcrd
 ```
 The Node will need lots of time to download and sync. Currently the Decred Blockchain is 4.2 Gigabytes in size.
