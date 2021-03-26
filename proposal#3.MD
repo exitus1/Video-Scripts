@@ -14,7 +14,7 @@ In addition to myself, I am happy to include two new community members who have 
 
 Decred Society has produced a number of Decred related videos which can be viewed on his [YouTube Channel](https://www.youtube.com/c/DecredSociety/featured).
 
-Karamable, a long time Decred contributor, has proven his skills in After Effects by producing Decred related animations. 
+Karamable, a long time Decred contributor, has proven his skills by producing Decred related animations and teasers.
 
 Examples of Karamble's work:
 
