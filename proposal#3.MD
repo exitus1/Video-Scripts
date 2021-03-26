@@ -68,6 +68,5 @@ I, Exitus, will manage the proposal and review the billing each month.
 
 Any funds unused will remain in treasury.
 
-Any funds unused will remain in treasury.
 
 
