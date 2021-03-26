@@ -52,6 +52,10 @@ Last phase saw a small increase in views and engagement. I attribute this to the
 
 I believe the real action will start once Decred gets listed on larger fiat exchanges, or once the DEX is user friendly with stable coin pairs - whatever comes first.
 
+Maximum billable amount from Phase 2: $16,200 ($2,700/Month)
+
+Actual billed amount from Phase 2: $6,720
+
 ### Budget
 
 Maximum Billable amount of $3,200 USD/Month to be paid in DCR via the Contractor Management System. 
@@ -60,6 +64,4 @@ I, Exitus, will manage the proposal and review the billing each month.
 
 Any funds unused will remain in treasury.
 
-Maximum billable amount from Phase 2: $16,200 ($2,700/Month)
 
-Actual billed amount from Phase 2: $6,720
