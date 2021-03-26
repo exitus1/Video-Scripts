@@ -1,14 +1,16 @@
 ### What
 
-This proposal seeks funding for the creation and administration of video content for the Decred Project's YouTube channel over the next 6 months beginning 4.1.2021.
+This proposal seeks funding for the creation and administration of video content to support the Decred project over the next 6 months beginning 4.1.2021.
 
 ### Why
 
 Video content is a powerful and immensely popular way of inducing education, spreading awareness, and generating hype. Having a presence on platforms like YouTube, Bitchute, Twitter etc. is a benefit to Decred.
 
+It is important to maintain a social media presence in order to best market Decred and display the health of the project as it continuously adapts, upgrades, and expands utilizing its unique suite of governance features.
+
 ### Who
 
-In addition to myself, I am happy to include two new community members who have produced video content: [Karamble](https://twitter.com/karamblez) and [Decred Society](https://twitter.com/DecredSociety) to this proposal.
+In addition to myself, I am happy to include two new community members who have created video content: [Karamble](https://twitter.com/karamblez) and [Decred Society](https://twitter.com/DecredSociety) to this proposal.
 
 Decred Society has produced a number of Decred related videos which can be viewed on his [YouTube Channel](https://www.youtube.com/c/DecredSociety/featured).
 
@@ -18,6 +20,8 @@ Examples of Karamble's work:
 
 - [DCRDEX Is Live](https://www.youtube.com/watch?v=XwGJyRBjdtM)
 - [1.6 Release Promo](https://twitter.com/karamblez/status/1356921573647745024)
+- [1.6 Promo #2](https://twitter.com/karamblez/status/1324812207222304770)
+- [8-Bit Promo](https://twitter.com/karamblez/status/1353843046606106628)
 
 
 
@@ -61,6 +65,8 @@ Actual billed amount from Phase 2: $6,720
 Maximum Billable amount of $3,200 USD/Month to be paid in DCR via the Contractor Management System. 
 
 I, Exitus, will manage the proposal and review the billing each month.
+
+Any funds unused will remain in treasury.
 
 Any funds unused will remain in treasury.
 
