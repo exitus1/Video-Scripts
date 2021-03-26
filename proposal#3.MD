@@ -1,6 +1,6 @@
 ### What
 
-This proposal seeks funding for the creation and administration of video content for the Decred Project's YouTube channel over the next 6 months, beginning 4.1.2021.
+This proposal seeks funding for the creation and administration of video content for the Decred Project's YouTube channel over the next 6 months beginning 4.1.2021.
 
 ### Why
 
