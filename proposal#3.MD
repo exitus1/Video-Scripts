@@ -1,6 +1,6 @@
 ### What
 
-This proposal seeks funding for the creation and administration of video content for the Decred Project's YouTube channel over the next 6 months, beginning 4.1.2021
+This proposal seeks funding for the creation and administration of video content for the Decred Project's YouTube channel over the next 6 months, beginning 4.1.2021.
 
 ### Why
 
@@ -8,7 +8,7 @@ Video content is a powerful and immensely popular way of inducing education, spr
 
 ### Who
 
-In addition to myself, I am happy to include two new community members who have produced video content - [Karamble](https://twitter.com/karamblez) and [Decred Society](https://twitter.com/DecredSociety) to this proposal.
+In addition to myself, I am happy to include two new community members who have produced video content: [Karamble](https://twitter.com/karamblez) and [Decred Society](https://twitter.com/DecredSociety) to this proposal.
 
 Decred Society has produced a number of Decred related videos which can be viewed on his [YouTube Channel](https://www.youtube.com/c/DecredSociety/featured).
 
