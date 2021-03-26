@@ -10,7 +10,7 @@ It is important to maintain a social media presence in order to best market Decr
 
 ### Who
 
-In addition to myself, I am happy to include two new community members who have created video content: [Karamble](https://twitter.com/karamblez) and [Decred Society](https://twitter.com/DecredSociety) to this proposal.
+In addition to myself, I am happy to include two new community members who have created video content: [Karamble](https://twitter.com/karamblez) and [Decred Society](https://twitter.com/DecredSociety).
 
 Decred Society has produced a number of Decred related videos which can be viewed on his [YouTube Channel](https://www.youtube.com/c/DecredSociety/featured).
 
