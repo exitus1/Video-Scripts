@@ -36,7 +36,7 @@ Examples of Karamble's work:
 - Why is be­ing fork res­ist­ant so im­port­ant?
 -  How does a pro­ject get lis­ted on the DCR­DEX?
 
-[Exitus](https://twitter.com/exitusdcr) - Focus on News Updates, Tutorials, assist Decred Society with video creation and general editing, provide video editing support for the Decred Project.
+[Exitus](https://twitter.com/exitusdcr) - Focus on News Updates, Tutorials, assist Decred Society with video creation and general editing when needed, provide video editing support for the Decred Project.
 
 [Karamble](https://twitter.com/karamblez) - Focus on Video and Gif animations, coordinated for project releases. Features and announcements will be created for social media use. Impression and click-through numbers have shown that a high reach can be achieved with visually appealing material to inform users about the releases and spark deeper engagement.
 
