@@ -1,10 +1,10 @@
 ### What
 
-This proposal seeks funding for the creation and administration of video content to support the Decred project over the next 6 months beginning 4.1.2021.
+This proposal seeks funding for the creation and administration of video content to support the Decred project over the next 6 months beginning April 1st, 2021.
 
 ### Why
 
-Video content is a powerful and immensely popular way of inducing education, spreading awareness, and generating hype. Having a presence on platforms like YouTube, Bitchute, Twitter etc. is a benefit to Decred.
+Video content is a powerful and immensely popular way of inducing education, spreading awareness, and generating hype. Having a presence on platforms like YouTube, Bitchute, Twitter and others is a benefit to Decred.
 
 It is important to maintain a social media presence in order to best market Decred and display the health of the project as it continuously adapts, upgrades, and expands utilizing its unique suite of governance features.
 
