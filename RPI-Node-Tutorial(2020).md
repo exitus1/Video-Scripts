@@ -144,7 +144,7 @@ Now we need to download the DCR installer.
 
 - Navigate to the decred.org website.
 
-Scroll down and look for the green "Stable V1.6.0" button.
+Scroll down and look for the green "Stable V1.6.2" button.
 
 Newer releases will be a different version.
 
@@ -158,7 +158,7 @@ Again, there may be a newer version out. Make sure to download the latest versio
 
 - Run ```cd ~/Downloads/```
 
-- Run ```sudo chmod u+x dcrinstall-linux-arm-v1.6.0```
+- Run ```sudo chmod u+x dcrinstall-linux-arm-v1.6.2```
 
 - Navigate to your downloads folder. Double click the installer, execute the installer in Terminal
 
