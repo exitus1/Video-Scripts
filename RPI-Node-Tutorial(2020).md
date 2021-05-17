@@ -189,7 +189,7 @@ cd ./decred/decred-linux-arm-v1.6.3
 ./dcrd
 ```
 
-Make sure to change the version number if the current version is no longer v1.6.2 (e.g v1.7.0)
+Make sure to change the version number if the current version is no longer v1.6.3 (e.g v1.7.0)
 
 The Decred daemon will boot up and start connecting to peers
 
