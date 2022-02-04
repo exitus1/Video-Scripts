@@ -195,7 +195,7 @@ The Decred daemon will boot up and start connecting to peers
 
 If you see that your node has successfully booted, hit control+c so we can finish by enabling TOR.
 
-If you do not wish to run TOR, make sure to forward the 9108 Port. If you choose to TOR, you won't need to do any port forwarding.
+If you do not wish to run TOR, make sure to forward the 9108 Port. If you choose to use TOR, you won't need to do any port forwarding.
 
 > ### Installing and Configuring TOR
 
@@ -257,7 +257,7 @@ cd
 cd ./decred/decred-linux-arm-v1.7.0
 ./dcrd
 ```
-The Node will need lots of time to download and sync. Currently the Decred Blockchain is 4.2 Gigabytes in size.
+The Node will need lots of time to download and sync. Currently the Decred Blockchain is 7.3 Gigabytes in size.
 
 
 When you start seeing logs saying **(inbound)** it means your node is accepting peer connections and now you’re officially part of the Decred network, helping it grow. Even if everything is configured properly, you won't see inbound conns for several days on average.
