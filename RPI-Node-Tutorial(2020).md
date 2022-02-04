@@ -185,11 +185,11 @@ Now we can start the node:
 - Run:
  
 ```
-cd ./decred/decred-linux-arm-v1.6.3
+cd ./decred/decred-linux-arm-v1.7.0
 ./dcrd
 ```
 
-Make sure to change the version number if the current version is no longer v1.6.3 (e.g v1.7.0)
+Make sure to change the version number if the current version is no longer v1.7.0 (e.g v1.8.0)
 
 The Decred daemon will boot up and start connecting to peers
 
@@ -254,7 +254,7 @@ Run your Decred node with
 
 ```
 cd
-cd ./decred/decred-linux-arm-v1.6.3
+cd ./decred/decred-linux-arm-v1.7.0
 ./dcrd
 ```
 The Node will need lots of time to download and sync. Currently the Decred Blockchain is 4.2 Gigabytes in size.
