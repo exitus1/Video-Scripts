@@ -150,7 +150,7 @@ Newer releases will be a different version.
 
 Clicking this will bring us to Decred's github releases page.
 
-- Download ```dcrinstall-linux-arm-v1.6.3```
+- Download ```dcrinstall-linux-arm-v1.7.0```
 
 Again, there may be a newer version out. Make sure to download the latest version.
 
@@ -158,7 +158,7 @@ Again, there may be a newer version out. Make sure to download the latest versio
 
 - Run ```cd ~/Downloads/```
 
-- Run ```sudo chmod u+x dcrinstall-linux-arm-v1.6.3```
+- Run ```sudo chmod u+x dcrinstall-linux-arm-v1.7.0```
 
 - Navigate to your downloads folder. Double click the installer, execute the installer in Terminal
 
