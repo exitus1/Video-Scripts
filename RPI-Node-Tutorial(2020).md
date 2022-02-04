@@ -144,7 +144,7 @@ Now we need to download the DCR installer.
 
 - Navigate to the decred.org website.
 
-Scroll down and look for the green "Stable V1.6.3" button.
+Scroll down and look for the green "Stable V1.7.0" button.
 
 Newer releases will be a different version.
 
