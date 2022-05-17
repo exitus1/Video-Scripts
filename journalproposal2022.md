@@ -27,7 +27,7 @@ The level of detail of these two publications is most useful to sophisticated st
 
 ## Past work recap
 
-46 issues of Decred Journal have been released since April 2018 and 50 issues of Politeia Digest since October 2018. In 2021 they were funded by [Decred Journal 2021](https://proposals-archive.decred.org/proposals/1d74b88) proposal with approx. X. In 2020 they were funded by [2020 Marketing](https://proposals.decred.org/proposals/c830ea5) proposal and have spent approx. $28,300. These estimates do not include translations.
+46 issues of Decred Journal have been released since April 2018 and 50 issues of Politeia Digest since October 2018. In 2021 they were funded by [Decred Journal 2021](https://proposals-archive.decred.org/proposals/1d74b88) proposal with approx. $28,400. In 2020 they were funded by [2020 Marketing](https://proposals.decred.org/proposals/c830ea5) proposal and have spent approx. $28,300. These estimates do not include translations.
 
 Over time the production was optimized as we got better at it and removed less valuable content.
 
