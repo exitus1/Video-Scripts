@@ -33,7 +33,7 @@ Over time the production was optimized as we got better at it and removed less v
 
 To improve resilience and reach content is published on [Medium](https://medium.com/decred/journals/home), [GitHub](https://xaur.github.io/decred-news/), [Publish0x](https://www.publish0x.com/decredjournal), [CoinMarketCap](https://coinmarketcap.com/headlines/signals/decred-journal-december-2020-decred/) and [Block Commons](https://blockcommons.red/politeia-digest/). All sources are stored in [Git](https://github.com/xaur/decred-news/blob/docs/guidelines.md#why-git) repositories that anyone can clone to protect it from loss and censorship. As a bonus it allows offline reading and easier translations. The production process is extensively [documented](https://github.com/xaur/decred-news/blob/docs/guidelines.md) to facilitate knowledge transfer to new maintainers if necessary.
 
-Several data tracking projects were started while collecting data for DJ: [social media stats](https://github.com/decredcommunity/social-media-stats), [events index](https://github.com/decredcommunity/events), [network stats](https://github.com/decredcommunity/network-stats), [proposal docs](https://github.com/decredcommunity/proposals) and [translations index](https://github.com/decredcommunity/translations). 
+Several data tracking projects were started while collecting data for DJ: [social media stats](https://github.com/decredcommunity/social-media-stats), [events index](https://github.com/decredcommunity/events), [network stats](https://github.com/decredcommunity/network-stats), [proposal docs](https://github.com/decredcommunity/proposals) and [translations index](https://github.com/decredcommunity/translations). (is this still being worked on?)
 
 ## Who
 
