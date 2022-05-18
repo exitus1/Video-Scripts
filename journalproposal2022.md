@@ -39,7 +39,7 @@ Several data tracking projects were started while collecting data for DJ: [socia
 
 The work will be done by @bee, @richardred, @Exitus and @bocherino, with occasional contributions from others.
 
-The most notable change is @bee will be stepping down as the Journal lead, but will still be providing critical review/oversight.
+The most notable change is @bee will be stepping down as Journal lead, but will still be providing critical review/oversight.
 
 ## Budget
 
