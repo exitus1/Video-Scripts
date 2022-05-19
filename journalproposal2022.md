@@ -45,7 +45,7 @@ The most notable change is @bee will be stepping down as Journal lead, but will 
 
 We will set the **maximum** monthly spend limit to $3,000 for the Decred Journal and $550 for Politeia Digest. This translates to a total $28,400 for the duration of the Proposal as a hard limit. We expect actual billing amounts to be similar to prior years.
 
-An average 2021 issue had ~5,000 words (~12 pages) and links to ~240 sources. To get a sense what it takes to produce you can check the latest [April Issue.](https://github.com/xaur/decred-news/blob/draft202204/journal/202204.md) Basically it involves collecting and writing up _a lot_ of mini stories. Perhaps the biggest part is harvesting ~18 code repositories for notable updates and translating that to less technical language (while still keeping some details since we also target developers).
+An average 2021 issue had ~5,000 words (~12 pages) and links to ~240 sources. To get a sense what it takes to produce you can check the latest [April Issue. ](https://medium.com/decred/decred-journal-april-2022-c2831e517eb4) Basically it involves collecting and writing up _a lot_ of mini stories. Perhaps the biggest part is harvesting ~18 code repositories for notable updates and translating that to less technical language (while still keeping some details since we also target developers).
 
 This proposal does not include translations.
 
