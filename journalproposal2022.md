@@ -1,6 +1,6 @@
 ## Summary
 
-This proposal requests funding for the production of the Decred Journal and Politeia Digest for the remainder of 2022, with a maximum budget of $28,400.
+This proposal requests funding for the production of the Decred Journal and Politeia Digest for the remainder of 2022, with a maximum budget of $29,400.
 
 
 ## What
@@ -46,13 +46,15 @@ The most notable change is @bee will be stepping down as Journal lead, but will 
 
 ## Budget
 
-We will set the **maximum** monthly spend limit to $3,000 for the Decred Journal and $550 for Politeia Digest. This translates to a total $28,400 for the duration of the Proposal as a hard limit. We expect actual billing amounts to be similar to prior years.
+We will set the **maximum** monthly spend limit to $3,000 for the Decred Journal and $550 for Politeia Digest. Also, $1,000 is included to compensate work done in January 2022 to complete the December 2021 issue. This work was not paid due to poor selection of billable period that ended in 2021, and the team deciding to not bill for it to respect the terms of the 2021 proposal.
+
+This translates to a total $29,400 for the duration of this proposal as a hard limit. We expect actual billing amounts to be similar to prior years.
 
 An average 2021 issue had ~5,000 words (~12 pages) and links to ~240 sources. To get a sense what it takes to produce you can check the latest [April Issue](https://medium.com/decred/decred-journal-april-2022-c2831e517eb4). Basically it involves collecting and writing up _a lot_ of mini stories. Perhaps the biggest part is harvesting ~18 code repositories for notable updates and translating that to less technical language (while still keeping some details since we also target developers).
 
 This proposal does not include translations.
 
-This proposal will fund the work done between May 1, 2022 and January 31, 2023. One extra month is added to complete the December 2022 issue.
+This proposal will fund the work done between January 1, 2022 and January 31, 2023. One extra month is added to complete the December 2022 issue.
 
 All billing will be performed in Decred's Contractor Management System. Any unused funds will stay in the Treasury.
 
