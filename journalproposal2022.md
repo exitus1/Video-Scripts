@@ -2,6 +2,7 @@
 
 This proposal requests funding for the production of the Decred Journal and Politeia Digest for the remainder of 2022, with a maximum budget of $28,400.
 
+
 ## What
 
 [**Decred Journal**](https://xaur.github.io/decred-news/) (DJ) is a detailed monthly report of all notable project activity in key areas such as:
@@ -10,7 +11,7 @@ This proposal requests funding for the production of the Decred Journal and Poli
 - People - new contributors, community's social media stats, unusual changes of activity
 - Governance - Treasury in/outflows, recap of proposal activity
 - Network - health indicators for mining, staking, nodes, research highlights
-- Integrations - updates from existing and new services in the ecosystem
+- Ecosystem - updates from existing and new services in the ecosystem
 - Outreach efforts
 - Events - summaries of attended and organized events
 - Media - notable articles/videos/podcasts/translations
@@ -33,7 +34,8 @@ Over time the production was optimized as we got better at it and removed less v
 
 To improve resilience and reach content is published on [Medium](https://medium.com/decred/journals/home), [GitHub](https://xaur.github.io/decred-news/), [Odysee](https://odysee.com/@Decred:c) and [Block Commons](https://blockcommons.red/politeia-digest/). All sources are stored in [Git](https://github.com/xaur/decred-news/blob/docs/guidelines.md#why-git) repositories that anyone can clone to protect it from loss and censorship. As a bonus it allows offline reading and easier translations. The production process is extensively [documented](https://github.com/xaur/decred-news/blob/docs/guidelines.md) to facilitate knowledge transfer to new maintainers if necessary.
 
-Several data tracking projects were started while collecting data for DJ: [social media stats](https://github.com/decredcommunity/social-media-stats), [events index](https://github.com/decredcommunity/events), [network stats](https://github.com/decredcommunity/network-stats), [proposal docs](https://github.com/decredcommunity/proposals) and [translations index](https://github.com/decredcommunity/translations). 
+Several data tracking projects were started while collecting data for DJ: [social media stats](https://github.com/decredcommunity/social-media-stats), [events index](https://github.com/decredcommunity/events), [network stats](https://github.com/decredcommunity/network-stats), [proposal docs](https://github.com/decredcommunity/proposals) and [translations index](https://github.com/decredcommunity/translations).
+
 
 ## Who
 
@@ -41,11 +43,12 @@ The work will be done by @bee, @richardred, @Exitus and @bochinchero, with occas
 
 The most notable change is @bee will be stepping down as Journal lead, but will still be providing critical review/oversight. @Exitus has kickstarted the re-production of the Journal, serving as the Journal lead.
 
+
 ## Budget
 
 We will set the **maximum** monthly spend limit to $3,000 for the Decred Journal and $550 for Politeia Digest. This translates to a total $28,400 for the duration of the Proposal as a hard limit. We expect actual billing amounts to be similar to prior years.
 
-An average 2021 issue had ~5,000 words (~12 pages) and links to ~240 sources. To get a sense what it takes to produce you can check the latest [April Issue. ](https://medium.com/decred/decred-journal-april-2022-c2831e517eb4) Basically it involves collecting and writing up _a lot_ of mini stories. Perhaps the biggest part is harvesting ~18 code repositories for notable updates and translating that to less technical language (while still keeping some details since we also target developers).
+An average 2021 issue had ~5,000 words (~12 pages) and links to ~240 sources. To get a sense what it takes to produce you can check the latest [April Issue](https://medium.com/decred/decred-journal-april-2022-c2831e517eb4). Basically it involves collecting and writing up _a lot_ of mini stories. Perhaps the biggest part is harvesting ~18 code repositories for notable updates and translating that to less technical language (while still keeping some details since we also target developers).
 
 This proposal does not include translations.
 
@@ -53,6 +56,7 @@ This proposal will fund the work done between May 1 and December 31, 2022. All b
 
 Any unused funds will stay in the Treasury.
 
+
 ## Feedback
 
-Any feedback to improve the Journal is greatly appreciated. 
+Any feedback to improve Decred Journal and Politeia Digest is greatly appreciated. 
