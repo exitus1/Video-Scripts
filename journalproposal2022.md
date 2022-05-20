@@ -47,11 +47,18 @@ The most notable change is @bee will be stepping down as Journal lead, but will 
 
 ## Budget
 
+| Item                            | Count | Unit $ | Subtotal $ |
+|---------------------------------|------:|-------:|-----------:|
+| Decred Journal                  |     9 | $3,000 |    $27,000 |
+| Politeia Digest                 |     9 |   $550 |     $4,950 |
+| Compensation for Jan 2022 work  |     1 | $1,000 |     $1,000 |
+| Total + $50 rounding            |       |        |    $33,000 |
+
 We will set the **maximum** monthly spend limit to $3,000 for the Decred Journal and $550 for Politeia Digest. There will be 9 issues of DJ (including April) and ~9 issues of PD.
 
 Extra $1,000 is included to compensate work done in January 2022 to complete the December 2021 issue. This work was not paid due to poor selection of billable period that ended in 2021, and the team deciding to not bill for it to respect the terms of the 2021 proposal.
 
-This translates to a total $33,000 for the duration of this proposal as a hard limit. We expect actual billing amounts to be similar to prior years (e.g. 2021 proposal spent $28,400 in total).
+This translates to a total $33,000 for the duration of this proposal as a hard limit. We expect actual billing amounts to be similar to prior years (~70% of the limit).
 
 An average 2021 issue had ~5,000 words (~12 pages) and links to ~240 sources. To get a sense what it takes to produce you can check the latest [April Issue](https://medium.com/decred/decred-journal-april-2022-c2831e517eb4). Basically it involves collecting and writing up _a lot_ of mini stories. Perhaps the biggest part is harvesting ~18 code repositories for notable updates and translating that to less technical language (while still keeping some details since we also target developers).
 
