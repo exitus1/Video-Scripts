@@ -1,3 +1,7 @@
+---
+title: Decred Journal and Politeia Digest 2022
+---
+
 ## Summary
 
 This proposal requests funding for the production of the Decred Journal and Politeia Digest for the remainder of 2022, with a maximum budget of $33,000.
