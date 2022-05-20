@@ -46,7 +46,7 @@ Several data tracking projects were started while collecting data for DJ: [socia
 
 The work will be done by @bee, @richardred, @Exitus and @bochinchero, with occasional contributions from others.
 
-The most notable change is @bee will be stepping down as Journal lead, but will still be providing critical review/oversight. @Exitus has kickstarted the re-production of the Journal, serving as the Journal lead.
+The most notable change is @bee will be [stepping down](https://xaur.github.io/decred-news/journal/202112#the-future-of-decred-journal) as Journal lead, but will still be providing critical review/oversight. @Exitus has kickstarted the re-production of the Journal and will be serving as the Journal lead going forward.
 
 
 ## Budget
