@@ -52,3 +52,7 @@ This proposal does not include translations.
 This proposal will fund the work done between May 1 and December 31, 2022. All billing will be performed in Decred's Contractor Management System.
 
 Any unused funds will stay in the Treasury.
+
+## Feedback
+
+Any feedback to improve the Journal is greatly appreciated. 
