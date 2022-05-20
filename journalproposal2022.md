@@ -1,6 +1,6 @@
 ## Summary
 
-This proposal requests funding for the production of the Decred Journal and Politeia Digest for the remainder of 2022, with a maximum budget of $29,400.
+This proposal requests funding for the production of the Decred Journal and Politeia Digest for the remainder of 2022, with a maximum budget of $33,000.
 
 
 ## What
@@ -26,6 +26,7 @@ Politeia Digest is included in this proposal because it has the same goals as DJ
 
 The level of detail of these two publications is most useful to sophisticated stakeholders and investors. For ~30 minutes a month one can stay on top of most things and follow the links to learn more about specific stories. But the general audience can still pick interesting parts and skip the rest. Also, DJ and PD can serve as a source of news for other formats of updates.
 
+
 ## Past work recap
 
 46 issues of Decred Journal have been released since April 2018 and 50 issues of Politeia Digest since October 2018. In 2021 they were funded by the [Decred Journal 2021](https://proposals.decred.org/proposals/1d74b88) proposal with approx. $28,400. In 2020 they were funded by [2020 Marketing](https://proposals.decred.org/proposals/c830ea5) proposal and have spent approx. $28,300. These estimates do not include translations.
@@ -46,9 +47,11 @@ The most notable change is @bee will be stepping down as Journal lead, but will 
 
 ## Budget
 
-We will set the **maximum** monthly spend limit to $3,000 for the Decred Journal and $550 for Politeia Digest. Also, $1,000 is included to compensate work done in January 2022 to complete the December 2021 issue. This work was not paid due to poor selection of billable period that ended in 2021, and the team deciding to not bill for it to respect the terms of the 2021 proposal.
+We will set the **maximum** monthly spend limit to $3,000 for the Decred Journal and $550 for Politeia Digest. There will be 9 issues of DJ (including April) and ~9 issues of PD.
 
-This translates to a total $29,400 for the duration of this proposal as a hard limit. We expect actual billing amounts to be similar to prior years.
+Extra $1,000 is included to compensate work done in January 2022 to complete the December 2021 issue. This work was not paid due to poor selection of billable period that ended in 2021, and the team deciding to not bill for it to respect the terms of the 2021 proposal.
+
+This translates to a total $33,000 for the duration of this proposal as a hard limit. We expect actual billing amounts to be similar to prior years (e.g. 2021 proposal spent $28,400 in total).
 
 An average 2021 issue had ~5,000 words (~12 pages) and links to ~240 sources. To get a sense what it takes to produce you can check the latest [April Issue](https://medium.com/decred/decred-journal-april-2022-c2831e517eb4). Basically it involves collecting and writing up _a lot_ of mini stories. Perhaps the biggest part is harvesting ~18 code repositories for notable updates and translating that to less technical language (while still keeping some details since we also target developers).
 
