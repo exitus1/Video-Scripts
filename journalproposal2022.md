@@ -33,13 +33,21 @@ The level of detail of these two publications is most useful to sophisticated st
 
 ## Past work recap
 
-46 issues of Decred Journal have been released since April 2018 and 50 issues of Politeia Digest since October 2018. In 2021 they were funded by the [Decred Journal 2021](https://proposals.decred.org/proposals/1d74b88) proposal with approx. $28,400. In 2020 they were funded by [2020 Marketing](https://proposals.decred.org/proposals/c830ea5) proposal and have spent approx. $28,300. These estimates do not include translations.
+46 issues of Decred Journal have been released since April 2018 and 50 issues of Politeia Digest since October 2018. In 2021 they were funded by the [Decred Journal 2021](https://proposals.decred.org/proposals/1d74b88) proposal with approx. $28,400. In 2020 they were funded by [2020 Marketing](https://proposals.decred.org/proposals/c830ea5) proposal and have spent approx. $28,300. These figures do not include translations.
 
 Over time the production was optimized as we got better at it and removed less valuable content.
 
-To improve resilience and reach content is published on [Medium](https://medium.com/decred/journals/home), [GitHub](https://xaur.github.io/decred-news/), [Odysee](https://odysee.com/@Decred:c) and [Block Commons](https://blockcommons.red/politeia-digest/). All sources are stored in [Git](https://github.com/xaur/decred-news/blob/docs/guidelines.md#why-git) repositories that anyone can clone to protect it from loss and censorship. As a bonus it allows offline reading and easier translations. The production process is extensively [documented](https://github.com/xaur/decred-news/blob/docs/guidelines.md) to facilitate knowledge transfer to new maintainers if necessary.
+To improve resilience and reach content is published on [Medium](https://medium.com/decred/journals/home), [GitHub](https://xaur.github.io/decred-news/), [Odysee](https://odysee.com/@Decred:c) and [Block Commons](https://blockcommons.red/politeia-digest/). All sources are stored in [Git](https://github.com/xaur/decred-news/blob/docs/guidelines.md#why-git) repositories that anyone can clone to protect it from loss and censorship. As a bonus, it allows offline reading and easier translations. The production process is extensively [documented](https://github.com/xaur/decred-news/blob/docs/guidelines.md) to facilitate knowledge transfer to new maintainers if necessary.
 
-Several data tracking projects were started while collecting data for DJ: [social media stats](https://github.com/decredcommunity/social-media-stats), [events index](https://github.com/decredcommunity/events), [network stats](https://github.com/decredcommunity/network-stats), [proposal docs](https://github.com/decredcommunity/proposals) and [translations index](https://github.com/decredcommunity/translations).
+Several data tracking projects were started while writing DJ: [social media stats](https://github.com/decredcommunity/social-media-stats), [events index](https://github.com/decredcommunity/events), [network stats](https://github.com/decredcommunity/network-stats), [proposal docs](https://github.com/decredcommunity/proposals) and [translations index](https://github.com/decredcommunity/translations).
+
+
+## 2021 proposal results
+
+- Published 12 issues of DJ and 10 issues of PD.
+- Spent around $24,800, or 73% of the $39,000 proposal limit. It was paid in DCR at contractors' standard monthly average rates (varied between $54.25-$198.60 throughout 2021, average $131).
+- Average monthly proposal spend was $2,370.
+- Please see the [final report](https://github.com/decredcommunity/proposals/blob/master/proposals/1d74b88/updates/20220521.md) for notable developments, challenges, and other details.
 
 
 ## Who
@@ -75,4 +83,4 @@ All billing will be performed in Decred's Contractor Management System. Any unus
 
 ## Feedback
 
-Any feedback to improve Decred Journal and Politeia Digest is greatly appreciated. 
+Any feedback to improve Decred Journal and Politeia Digest is greatly appreciated.
