@@ -48,7 +48,7 @@ The work will be done by @bee, @richardred, @Exitus and @bocherino, with occasio
 
 ## Budget
 
-The 2022 Proposal had a maximum billable amount of $33,000. The **actual** billed amount was $25,760.00* (Needs update)
+The 2022 Proposal had a maximum billable amount of $33,000. The **actual** billed amount was $25,560.
 
 We will set the maximum monthly spend limit to $3,000 for the Decred Journal and $550 for Politeia Digest. This translates to a **X limit** for 12 months.
 
