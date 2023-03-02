@@ -1,6 +1,6 @@
 ## Summary
 
-This proposal requests funding for the production of the Decred Journal and Politeia Digest for 2023, with a maximum budget of $X.
+This proposal requests funding for the production of the Decred Journal and Politeia Digest for 2023, with a maximum budget of $42,600.
 
 ## What
 
@@ -31,7 +31,7 @@ The level of detail of these two publications is most useful to sophisticated st
 
 ## Past work recap
 
-54 issues of Decred Journal have been released since April 2018 and 55 issues of Politeia Digest since October 2018. In 2022 they were funded by the [Decred Journal and Politeia Digest 2022 proposal](https://proposals.decred.org/record/4fdef29).
+55 issues of Decred Journal have been released since April 2018 and 56 issues of Politeia Digest since October 2018. In 2022 they were funded by the [Decred Journal and Politeia Digest 2022 proposal](https://proposals.decred.org/record/4fdef29).
 
 
 
@@ -50,9 +50,9 @@ The work will be done by @bee, @richardred, @Exitus and @bocherino, with occasio
 
 The 2022 Proposal had a maximum billable amount of $33,000. The **actual** billed amount was $25,560.
 
-We will set the maximum monthly spend limit to $3,000 for the Decred Journal and $550 for Politeia Digest. This translates to a **X limit** for 12 months.
+We will set the maximum monthly spend limit to $3,000 for the Decred Journal and $550 for Politeia Digest. This translates to a $42,600 for 12 months.
 
-An average 2022 issue had ~5,000 words (~12 pages) and links to ~240 sources. To get a sense what it takes to produce you can check the latest [November](https://xaur.github.io/decred-news/journal/202211.html) and [December](https://xaur.github.io/decred-news/journal/202212.html) issues. Basically it involves collecting and writing up _a lot_ of mini stories. Perhaps the biggest part is harvesting ~18 code repositories for notable updates and translating that to less technical language (while still keeping some details since we also target developers).
+An average 2022 issue had ~5,000 words (~12 pages) and links to ~240 sources. To get a sense what it takes to produce you can check the latest [December](https://www.decredmagazine.com/decred-journal-december-2022/) and [January](https://www.decredmagazine.com/decred-journal-january-2023/) issues. Basically it involves collecting and writing up _a lot_ of mini stories. Perhaps the biggest part is harvesting ~18 code repositories for notable updates and translating that to less technical language (while still keeping some details since we also target developers).
 
 This proposal does not include translations.
 
