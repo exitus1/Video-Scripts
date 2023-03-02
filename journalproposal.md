@@ -1,3 +1,15 @@
+```
+title: Decred Journal and Politeia Digest 2023
+start_date: 2023-02-01
+end_date: 2024-01-31
+domain: Marketing
+```
+
+^ Copy these to the Proposal submit form.
+
+--- COPY THE PROPOSAL BODY BELOW ---
+
+
 ## Summary
 
 This proposal requests funding for the production of the Decred Journal and Politeia Digest for 2023, with a maximum budget of $42,600.
