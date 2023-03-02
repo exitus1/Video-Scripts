@@ -2,6 +2,7 @@
 
 This proposal requests funding for the production of the Decred Journal and Politeia Digest for 2023, with a maximum budget of $42,600.
 
+
 ## What
 
 [**Decred Journal**](https://xaur.github.io/decred-news/) (DJ) is a detailed monthly report of all notable project activity in key areas such as:
@@ -10,7 +11,7 @@ This proposal requests funding for the production of the Decred Journal and Poli
 - People - new contributors, community's social media stats, unusual changes of activity
 - Governance - Treasury in/outflows, recap of proposal activity
 - Network - health indicators for mining, staking, nodes, research highlights
-- Integrations - updates from existing and new services in the ecosystem
+- Ecosystem - updates from existing and new services in the ecosystem
 - Outreach efforts
 - Events - summaries of attended and organized events
 - Media - notable articles/videos/podcasts/translations
@@ -29,26 +30,26 @@ Politeia Digest is included in this proposal because it has the same goals as DJ
 
 The level of detail of these two publications is most useful to sophisticated stakeholders and investors. For ~30 minutes a month one can stay on top of most things and follow the links to learn more about specific stories. But the general audience can still pick interesting parts and skip the rest. Also, DJ and PD can serve as a source of news for other formats of updates.
 
+
 ## Past work recap
 
 55 issues of Decred Journal have been released since April 2018 and 56 issues of Politeia Digest since October 2018. In 2022 they were funded by the [Decred Journal and Politeia Digest 2022 proposal](https://proposals.decred.org/record/4fdef29).
 
-
-
-To improve resilience and reach content is published on [Decred Magazine](https://www.decredmagazine.com/tag/news/), [Medium](https://medium.com/decred/journals/home), [GitHub](https://xaur.github.io/decred-news/), [CoinMarketCap](https://coinmarketcap.com/headlines/signals/decred-journal-december-2020-decred/) and [Block Commons](https://blockcommons.red/politeia-digest/). All sources are stored in [Git](https://github.com/xaur/decred-news/blob/docs/guidelines.md#why-git) repositories that anyone can clone to protect it from loss and censorship. As a bonus it allows offline reading and easier translations. The production process is extensively [documented](https://github.com/xaur/decred-news/blob/docs/guidelines.md) to facilitate knowledge transfer to new maintainers if necessary.
+To improve resilience and reach content is published on [Decred Magazine](https://www.decredmagazine.com/tag/news/), [Medium](https://medium.com/decred/journals/home), [GitHub](https://xaur.github.io/decred-news/), and [Block Commons](https://blockcommons.red/politeia-digest/). All sources are stored in [Git](https://github.com/xaur/decred-news/blob/docs/guidelines.md#why-git) repositories that anyone can clone to protect it from loss and censorship. As a bonus it allows offline reading and easier translations. The production process is extensively [documented](https://github.com/xaur/decred-news/blob/docs/guidelines.md) to facilitate knowledge transfer to new maintainers if necessary.
 
 A total of 126 DJ issue [translations](https://xaur.github.io/decred-news/) to 8 languages were made. PD received 10 translations to 2 languages.
 
 Several data tracking projects were started while collecting data for DJ: [social media stats](https://github.com/decredcommunity/social-media-stats), [events index](https://github.com/decredcommunity/events), [network stats](https://github.com/decredcommunity/network-stats), [proposal docs](https://github.com/decredcommunity/proposals) and [translations index](https://github.com/decredcommunity/translations). 
 
+
 ## Who
 
-The work will be done by @bee, @richardred, @Exitus and @bocherino, with occasional contributions from others.
+The work will be done by @bee, @richardred, @Exitus and @bochinchero, with occasional contributions from others.
 
 
 ## Budget
 
-The 2022 Proposal had a maximum billable amount of $33,000. The **actual** billed amount was $25,560.
+The 2022 Proposal had a maximum billable amount of $33,000. The **actual** billed amount was **$25,570**.
 
 The maximum monthly spend limit will remain the same at $3,000 for the Decred Journal and $550 for Politeia Digest. This translates to a maximum billable amount of $42,600 for 12 months.
 
@@ -56,9 +57,10 @@ An average 2022 issue had ~5,000 words (~12 pages) and links to ~240 sources. To
 
 This proposal does not include translations.
 
-This proposal will fund the work done between February 1 and December 31, 2023*. All billing will be performed in Decred's Contractor Management System.
+This proposal will fund the work done between February 1 and December 31, 2023. All billing will be performed in Decred's Contractor Management System.
 
 Any unused funds will stay in the Treasury.
+
 
 ## Feedback
 
