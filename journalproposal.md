@@ -57,7 +57,7 @@ An average 2022 issue had ~5,000 words (~12 pages) and links to ~240 sources. To
 
 This proposal does not include translations.
 
-This proposal will fund the work done between February 1 and December 31, 2023. All billing will be performed in Decred's Contractor Management System.
+This proposal will fund the work done between February 1, 2023 and January 31, 2024. All billing will be performed in Decred's Contractor Management System.
 
 Any unused funds will stay in the Treasury.
 
