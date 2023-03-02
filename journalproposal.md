@@ -50,7 +50,7 @@ The work will be done by @bee, @richardred, @Exitus and @bocherino, with occasio
 
 The 2022 Proposal had a maximum billable amount of $33,000. The **actual** billed amount was $25,560.
 
-We will set the maximum monthly spend limit to $3,000 for the Decred Journal and $550 for Politeia Digest. This translates to a $42,600 for 12 months.
+The maximum monthly spend limit will remain the same at $3,000 for the Decred Journal and $550 for Politeia Digest. This translates to a $42,600 for 12 months.
 
 An average 2022 issue had ~5,000 words (~12 pages) and links to ~240 sources. To get a sense what it takes to produce you can check the latest [December](https://www.decredmagazine.com/decred-journal-december-2022/) and [January](https://www.decredmagazine.com/decred-journal-january-2023/) issues. Basically it involves collecting and writing up _a lot_ of mini stories. Perhaps the biggest part is harvesting ~18 code repositories for notable updates and translating that to less technical language (while still keeping some details since we also target developers).
 
