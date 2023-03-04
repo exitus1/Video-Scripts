@@ -49,7 +49,7 @@ The level of detail of these two publications is most useful to sophisticated st
 
 To improve resilience and reach content is published on [Decred Magazine](https://www.decredmagazine.com/tag/news/), [Medium](https://medium.com/decred/journals/home), [GitHub](https://xaur.github.io/decred-news/), and [Block Commons](https://blockcommons.red/politeia-digest/). All sources are stored in [Git](https://github.com/xaur/decred-news/blob/docs/guidelines.md#why-git) repositories that anyone can clone to protect it from loss and censorship. As a bonus it allows offline reading and easier translations. The production process is extensively [documented](https://github.com/xaur/decred-news/blob/docs/guidelines.md) to facilitate knowledge transfer to new maintainers if necessary.
 
-A total of 126 DJ issue [translations](https://xaur.github.io/decred-news/) to 8 languages were made. PD received 10 translations to 2 languages.
+A total of 126 DJ issue [translations](https://xaur.github.io/decred-news/) to 8 languages were made. PD received 10 translations to 2 languages. Translations were funded separately from the DJ/PD proposals.
 
 Several data tracking projects were started while collecting data for DJ: [social media stats](https://github.com/decredcommunity/social-media-stats), [events index](https://github.com/decredcommunity/events), [network stats](https://github.com/decredcommunity/network-stats), [proposal docs](https://github.com/decredcommunity/proposals) and [translations index](https://github.com/decredcommunity/translations). 
 
