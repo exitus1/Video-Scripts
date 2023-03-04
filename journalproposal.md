@@ -51,7 +51,9 @@ To improve resilience and reach content is published on [Decred Magazine](https:
 
 A total of 126 DJ issue [translations](https://xaur.github.io/decred-news/) to 8 languages were made. PD received 10 translations to 2 languages. Translations were funded separately from the DJ/PD proposals.
 
-Several data tracking projects were started while collecting data for DJ: [social media stats](https://github.com/decredcommunity/social-media-stats), [events index](https://github.com/decredcommunity/events), [network stats](https://github.com/decredcommunity/network-stats), [proposal docs](https://github.com/decredcommunity/proposals) and [translations index](https://github.com/decredcommunity/translations). 
+A number of useful side projects were spawned while collecting data for DJ: [reports for attended events](https://decredcommunity.github.io/events/index/), [social media stats](https://github.com/decredcommunity/social-media-stats), [network stats](https://github.com/decredcommunity/network-stats), supporting [proposal docs](https://github.com/decredcommunity/proposals) and the [log of translations](https://github.com/decredcommunity/translations).
+
+Most recent byproducts created in 2022 include monthly updates to [decred.org/news](https://decred.org/news/) page, [network data snapshots](https://github.com/bochinchero/dcrsnapcsv), [reusable charts](https://github.com/bochinchero/dcrsnapshots), and more detailed updates about ecosystem members posted in the [#ecosystem](https://chat.decred.org/#/room/#ecosystem:decred.org) chat room.
 
 
 ## Who
