@@ -45,7 +45,7 @@ The level of detail of these two publications is most useful to sophisticated st
 
 ## Past work recap
 
-55 issues of Decred Journal have been released since April 2018 and 56 issues of Politeia Digest since October 2018. In 2022 they were funded by the [Decred Journal and Politeia Digest 2022 proposal](https://proposals.decred.org/record/4fdef29).
+Decred Journal released 55 detailed monthly digests since April 2018. Politeia Digest released 56 proposal batch updates since October 2018. Most of the work has been funded by 4 approved proposals: [2019 Marketing](https://proposals.decred.org/proposals/c84a766), [2020 US Marketing](https://proposals.decred.org/proposals/c830ea5), [Decred Journal 2021](https://proposals.decred.org/proposals/1d74b88) and most recently [DJ and PD 2022](https://proposals.decred.org/record/4fdef29).
 
 To improve resilience and reach content is published on [Decred Magazine](https://www.decredmagazine.com/tag/news/), [Medium](https://medium.com/decred/journals/home), [GitHub](https://xaur.github.io/decred-news/), and [Block Commons](https://blockcommons.red/politeia-digest/). All sources are stored in [Git](https://github.com/xaur/decred-news/blob/docs/guidelines.md#why-git) repositories that anyone can clone to protect it from loss and censorship. As a bonus it allows offline reading and easier translations. The production process is extensively [documented](https://github.com/xaur/decred-news/blob/docs/guidelines.md) to facilitate knowledge transfer to new maintainers if necessary.
 
