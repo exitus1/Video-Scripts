@@ -53,7 +53,14 @@ A total of 126 DJ issue [translations](https://xaur.github.io/decred-news/) to 8
 
 A number of useful side projects were spawned while collecting data for DJ: [reports for attended events](https://decredcommunity.github.io/events/index/), [social media stats](https://github.com/decredcommunity/social-media-stats), [network stats](https://github.com/decredcommunity/network-stats), supporting [proposal docs](https://github.com/decredcommunity/proposals) and the [log of translations](https://github.com/decredcommunity/translations).
 
-Most recent byproducts created in 2022 include monthly updates to [decred.org/news](https://decred.org/news/) page, [network data snapshots](https://github.com/bochinchero/dcrsnapcsv), [reusable charts](https://github.com/bochinchero/dcrsnapshots), and more detailed updates about ecosystem members posted in the [#ecosystem](https://chat.decred.org/#/room/#ecosystem:decred.org) chat room.
+
+## 2022 proposal recap
+
+- Published 9 issues of DJ and 6 issues of PD.
+- Spent around $25,570, or 77% of the $33,000 proposal limit. It was paid in DCR at its standard monthly average rates (varied between $19.79 and $62.63 per 1 DCR, average $30.52).
+- Proposal's monthly average burn rate was $2,740.
+- New "byproduct" projects created in 2022 include: monthly updates to [decred.org/news](https://decred.org/news/) page, [network data snapshots](https://github.com/bochinchero/dcrsnapcsv), [reusable charts](https://github.com/bochinchero/dcrsnapshots), and more detailed updates about ecosystem members posted in the [#ecosystem](https://chat.decred.org/#/room/#ecosystem:decred.org) chat room.
+- Read the full [final report](https://proposals.decred.org/record/4fdef29/comments/9) on Politeia (backup copy [here](https://github.com/decredcommunity/proposals/blob/master/proposals/4fdef29/updates/20230228.md)).
 
 
 ## Who
