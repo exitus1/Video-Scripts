@@ -22,7 +22,7 @@ This proposal requests funding for the production of the Decred Journal and Poli
 
 ## What
 
-[**Decred Journal**](https://xaur.github.io/decred-news/) (DJ) is a detailed monthly report of all notable project activity in key areas such as:
+[**Decred Journal**](https://xaur.github.io/decred-news/) (DJ) is a detailed monthly report of all notable project activities in key areas such as:
 
 - Development - progress in ~18 code repositories simplified to less technical language
 - People - new contributors, community's social media stats, unusual changes of activity
@@ -43,7 +43,7 @@ We plan to tweet the most interesting elements of the Journal in order to reach 
 
 [**Politeia Digest**](https://blockcommons.red/politeia-digest/) (PD) serves to update voters on all notable proposal activity at best time. This includes summaries and highlights of proposals and their revisions, comments, and related activity. It tracks Politeia in greater detail compared to Decred Journal, but is still short enough to catch up quickly. Unlike DJ there is no fixed schedule, instead issues are released when most useful, e.g. before voting is started for a batch of proposals.
 
-Politeia Digest is included in this proposal because it has the same goals as DJ in one specific area (Politeia), and is done by same people with similar production process.
+Politeia Digest is included in this proposal because it has the same goals as DJ in one specific area (Politeia), and is done by the same people with similar production process.
 
 The level of detail of these two publications is most useful to sophisticated stakeholders and investors. For ~30 minutes a month one can stay on top of most things and follow the links to learn more about specific stories. General audience can still pick interesting parts and skip the rest. Also, DJ and PD can source news to other formats such as [Twitter](https://twitter.com/decredproject), the [News Update videos](https://www.youtube.com/@DecredTV), or Decred Magazine stories.
 
@@ -86,7 +86,7 @@ For 2023 the monthly targets will remain the same at $3,000 for Decred Journal a
 | Politeia Digest                 |    12 |   $333 |     $4,000 |
 | Proposal total                  |       |        |    $40,000 |
 
-An average 2022 issue had ~5,000 words (~12 pages) and ~240 links to sources. To get a sense what it takes to produce you can check the latest [December](https://www.decredmagazine.com/decred-journal-december-2022/) and [January](https://www.decredmagazine.com/decred-journal-january-2023/) issues. Basically it involves collecting and writing up _a lot_ of mini stories. Perhaps the biggest part is harvesting ~18 code repositories for notable updates and translating that to less technical language, while still keeping some details since we also target developers.
+An average 2022 issue had ~5,000 words (~12 pages) and ~240 links to sources. To get a sense of what it takes to produce you can check the latest [December](https://www.decredmagazine.com/decred-journal-december-2022/) and [January](https://www.decredmagazine.com/decred-journal-january-2023/) issues. Basically it involves collecting and writing up _a lot_ of mini stories. Perhaps the biggest part is harvesting ~18 code repositories for notable updates and translating that to less technical language, while still keeping some details since we also target developers.
 
 This proposal does not include translations but they can be funded from [Decred Content and Asset Translations 2023](https://proposals.decred.org/record/31c4b5f) proposal as needed.
 
@@ -102,4 +102,4 @@ Any unused funds will stay in the Treasury.
 
 ## Feedback
 
-We'd love to hear user feedback regarding the Journal and Politeia Digest. Is there a new section you'd like to see? Is the Development section too technical? Let us know.
+We'd love to hear your feedback regarding the Journal and Politeia Digest. Is there a new section you'd like to see? Is the Development section too technical? Let us know.
