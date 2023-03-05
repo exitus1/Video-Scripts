@@ -1,5 +1,5 @@
 ---
-version: v1-published
+version: v2-draft
 url: https://proposals.decred.org/record/9e68dca
 ---
 
@@ -41,31 +41,31 @@ The Journal ultimately exhibits Decred's monthly evolution and development, prov
 
 We plan to tweet the most interesting elements of the Journal in order to reach an audience that prefers short-form content. [Example](https://twitter.com/exitusdcr/status/1615852535390298114).
 
-[**Politeia Digest**](https://blockcommons.red/politeia-digest/) (PD) serves to keep voters updated on all notable Politeia activity. This includes summaries and highlights of proposals and their edits, comments, and related activity. It tracks Politeia in greater detail compared to Decred Journal, but is still short enough to catch up quickly. There is no fixed schedule, but releases are timed to drop when most useful, e.g. before voting is started for a batch of proposals.
+[**Politeia Digest**](https://blockcommons.red/politeia-digest/) (PD) serves to update voters on all notable proposal activity at best time. This includes summaries and highlights of proposals and their revisions, comments, and related activity. It tracks Politeia in greater detail compared to Decred Journal, but is still short enough to catch up quickly. Unlike DJ there is no fixed schedule, instead issues are released when most useful, e.g. before voting is started for a batch of proposals.
 
 Politeia Digest is included in this proposal because it has the same goals as DJ in one specific area (Politeia), and is done by same people with similar production process.
 
-The level of detail of these two publications is most useful to sophisticated stakeholders and investors. For ~30 minutes a month one can stay on top of most things and follow the links to learn more about specific stories. But the general audience can still pick interesting parts and skip the rest. Also, DJ and PD can serve as a source of news for other formats of updates.
+The level of detail of these two publications is most useful to sophisticated stakeholders and investors. For ~30 minutes a month one can stay on top of most things and follow the links to learn more about specific stories. General audience can still pick interesting parts and skip the rest. Also, DJ and PD can source news to other formats such as [Twitter](https://twitter.com/decredproject), the [News Update videos](https://www.youtube.com/@DecredTV), or Decred Magazine stories.
 
 
 ## Past work recap
 
-Decred Journal released 55 detailed monthly digests since April 2018. Politeia Digest released 56 proposal batch updates since October 2018. Most of the work has been funded by 4 approved proposals: [2019 Marketing](https://proposals.decred.org/proposals/c84a766), [2020 US Marketing](https://proposals.decred.org/proposals/c830ea5), [Decred Journal 2021](https://proposals.decred.org/proposals/1d74b88) and most recently [DJ and PD 2022](https://proposals.decred.org/record/4fdef29).
+Decred Journal released 55 detailed monthly digests since April 2018. Politeia Digest released 56 proposal batch updates since October 2018. Most of the work was funded by 4 approved proposals: [2019 Marketing](https://proposals.decred.org/proposals/c84a766), [2020 US Marketing](https://proposals.decred.org/proposals/c830ea5), [Decred Journal 2021](https://proposals.decred.org/proposals/1d74b88) and most recently [DJ and PD 2022](https://proposals.decred.org/record/4fdef29).
 
 To improve resilience and reach content is published on [Decred Magazine](https://www.decredmagazine.com/tag/news/), [Medium](https://medium.com/decred/journals/home), [GitHub](https://xaur.github.io/decred-news/), and [Block Commons](https://blockcommons.red/politeia-digest/). All sources are stored in [Git repositories](https://github.com/xaur/decred-news/blob/docs/guidelines.md#why-git) that anyone can clone to protect it from loss and censorship. Other benefits of Git include offline reading, detailed log of contributions, and easier translations. The production process is extensively [documented](https://github.com/xaur/decred-news/blob/docs/guidelines.md) to facilitate knowledge transfer to new maintainers if necessary.
 
-A total of 126 DJ issue [translations](https://xaur.github.io/decred-news/) to 8 languages were made. PD received 10 translations to 2 languages. Translations were funded separately from the DJ/PD proposals.
+A total of 126 DJ issue [translations](https://xaur.github.io/decred-news/) to 8 languages were made. PD received 10 [translations](https://github.com/decredcommunity/translations/blob/master/index.md) to 2 languages. Translations were funded separately from the DJ/PD proposals.
 
-A number of useful side projects were spawned while collecting data for DJ: [reports for attended events](https://decredcommunity.github.io/events/index/), [social media stats](https://github.com/decredcommunity/social-media-stats), [network stats](https://github.com/decredcommunity/network-stats), supporting [proposal docs](https://github.com/decredcommunity/proposals) and the [log of translations](https://github.com/decredcommunity/translations).
+A number of side projects were spawned while collecting data for DJ: [reports on attended events](https://decredcommunity.github.io/events/index/), [social media stats](https://github.com/decredcommunity/social-media-stats), [network stats](https://github.com/decredcommunity/network-stats), supporting [proposal docs](https://github.com/decredcommunity/proposals) and the [log of translations](https://github.com/decredcommunity/translations/blob/master/index.md).
 
 
 ## 2022 proposal recap
 
 - Published 9 issues of DJ and 6 issues of PD.
-- Spent around $25,570, or 77% of the $33,000 proposal limit. It was paid in DCR at its standard monthly average rates (varied between $19.79 and $62.63 per 1 DCR, average $30.52).
+- Spent around $25,570, or 77% of the $33,000 proposal limit. It was paid in DCR at standard monthly average rates (varied between $19.79 and $62.63 per 1 DCR, average $30.52).
 - Proposal's monthly average burn rate was $2,740.
-- New "byproduct" projects created in 2022 include: monthly updates to [decred.org/news](https://decred.org/news/) page, [network data snapshots](https://github.com/bochinchero/dcrsnapcsv), [reusable charts](https://github.com/bochinchero/dcrsnapshots), and more detailed updates about ecosystem members posted in the [#ecosystem](https://chat.decred.org/#/room/#ecosystem:decred.org) chat room.
-- Read the full [final report](https://proposals.decred.org/record/4fdef29/comments/9) on Politeia (backup copy [here](https://github.com/decredcommunity/proposals/blob/master/proposals/4fdef29/updates/20230228.md)).
+- New "byproduct" projects created in 2022 include: monthly updates to [decred.org/news](https://decred.org/news/) page, [network data snapshots](https://github.com/bochinchero/dcrsnapcsv), [reusable charts](https://github.com/bochinchero/dcrsnapshots) of network metrics, and more detailed updates about the ecosystem posted in the [#ecosystem](https://chat.decred.org/#/room/#ecosystem:decred.org) chat room.
+- Read the full [final proposal report](https://proposals.decred.org/record/4fdef29/comments/9) on Politeia (backup copy [here](https://github.com/decredcommunity/proposals/blob/master/proposals/4fdef29/updates/20230228.md)).
 
 
 ## Who
@@ -75,13 +75,13 @@ The work will be done by @bee, @richardred, @Exitus and @bochinchero, with occas
 
 ## Budget
 
-The 2022 Proposal had a maximum billable amount of $33,000. The **actual** billed amount was **$25,570**.
+The 2022 proposal had a maximum billable amount of $33,000. The **actual** billed amount was **$25,570**.
 
-The maximum monthly spend soft limit will remain the same at $3,000 for the Decred Journal and slightly reduced $333 for Politeia Digest. This translates to a maximum billable amount of **$40,000** for 12 months.
+For 2023 the monthly soft limit will remain the same at $3,000 for Decred Journal and reduced $333 for Politeia Digest. This translates to a maximum billable amount of **$40,000** for 12 months.
 
-An average 2022 issue had ~5,000 words (~12 pages) and links to ~240 sources. To get a sense what it takes to produce you can check the latest [December](https://www.decredmagazine.com/decred-journal-december-2022/) and [January](https://www.decredmagazine.com/decred-journal-january-2023/) issues. Basically it involves collecting and writing up _a lot_ of mini stories. Perhaps the biggest part is harvesting ~18 code repositories for notable updates and translating that to less technical language (while still keeping some details since we also target developers).
+An average 2022 issue had ~5,000 words (~12 pages) and ~240 links to sources. To get a sense what it takes to produce you can check the latest [December](https://www.decredmagazine.com/decred-journal-december-2022/) and [January](https://www.decredmagazine.com/decred-journal-january-2023/) issues. Basically it involves collecting and writing up _a lot_ of mini stories. Perhaps the biggest part is harvesting ~18 code repositories for notable updates and translating that to less technical language, while still keeping some details since we also target developers.
 
-This proposal does not include translations.
+This proposal does not include translations but they can be funded from [Decred Content and Asset Translations 2023](https://proposals.decred.org/record/31c4b5f) proposal as needed.
 
 This proposal will fund the work done between February 1, 2023 and January 31, 2024. All billing will be performed in Decred's Contractor Management System using its standard average DCR/USD exchange rate for each month when the work was done.
 
