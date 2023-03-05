@@ -1,3 +1,10 @@
+---
+version: v1-published
+url: https://proposals.decred.org/record/9e68dca
+---
+
+--- COPY THE META BELOW TO PROPOSAL SUBMIT FORM ---
+
 ```
 title: Decred Journal and Politeia Digest 2023
 start_date: 2023-02-01
@@ -6,10 +13,7 @@ domain: Marketing
 limit_usd: 40,000
 ```
 
-^ Copy these to the Proposal submit form.
-
 --- COPY THE PROPOSAL BODY BELOW ---
-
 
 ## Summary
 
