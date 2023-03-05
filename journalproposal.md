@@ -64,6 +64,7 @@ A number of side projects were spawned while collecting data for DJ: [reports on
 - Published 9 issues of DJ and 6 issues of PD.
 - Spent around $25,570, or 77% of the $33,000 proposal limit. It was paid in DCR at standard monthly average rates (varied between $19.79 and $62.63 per 1 DCR, average $30.52).
 - Proposal's monthly average burn rate was $2,740.
+- Releasing earlier has been a big challenge. We are looking how to fix this.
 - New "byproduct" projects created in 2022 include: monthly updates to [decred.org/news](https://decred.org/news/) page, [network data snapshots](https://github.com/bochinchero/dcrsnapcsv), [reusable charts](https://github.com/bochinchero/dcrsnapshots) of network metrics, and more detailed updates about the ecosystem posted in the [#ecosystem](https://chat.decred.org/#/room/#ecosystem:decred.org) chat room.
 - Read the full [final proposal report](https://proposals.decred.org/record/4fdef29/comments/9) on Politeia (backup copy [here](https://github.com/decredcommunity/proposals/blob/master/proposals/4fdef29/updates/20230228.md)).
 
