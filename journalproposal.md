@@ -75,9 +75,9 @@ The work will be done by @bee, @richardred, @Exitus and @bochinchero, with occas
 
 ## Budget
 
-The 2022 proposal had a maximum billable amount of $33,000. The **actual** billed amount was **$25,570**.
+The 2022 proposal had a maximum billable amount of $33,000 for 9 months. The **actual** billed amount was **$25,570**.
 
-For 2023 the monthly soft limit will remain the same at $3,000 for Decred Journal and reduced $333 for Politeia Digest. This translates to a maximum billable amount of **$40,000** for 12 months.
+For 2023 the monthly targets will remain the same at $3,000 for Decred Journal and reduced $333 for Politeia Digest. This translates to a maximum billable amount of **$40,000** for **12 months**. Unlike 2022 we will remove "hard" monthly limits in case any subproject needs to stretch slightly, as long as everything fits the total hard limit for 12 months.
 
 An average 2022 issue had ~5,000 words (~12 pages) and ~240 links to sources. To get a sense what it takes to produce you can check the latest [December](https://www.decredmagazine.com/decred-journal-december-2022/) and [January](https://www.decredmagazine.com/decred-journal-january-2023/) issues. Basically it involves collecting and writing up _a lot_ of mini stories. Perhaps the biggest part is harvesting ~18 code repositories for notable updates and translating that to less technical language, while still keeping some details since we also target developers.
 
