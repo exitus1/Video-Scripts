@@ -78,7 +78,7 @@ The work will be done by @bee, @richardred, @Exitus and @bochinchero, with occas
 
 The 2022 proposal had a maximum billable amount of $33,000 for 9 months. The **actual** billed amount was **$25,570**.
 
-For 2023 the monthly targets will remain the same at $3,000 for Decred Journal and reduced $333 for Politeia Digest. This translates to a maximum billable amount of **$40,000** for **12 months**. Unlike 2022 we will remove "hard" monthly limits in case any subproject needs to stretch slightly, as long as everything fits the total hard limit for 12 months.
+For 2023 the monthly targets will remain the same at $3,000 for Decred Journal and reduced $333 for Politeia Digest. This translates to a **maximum billable amount of $40,000** for **12 months**. Unlike 2022 we will remove "hard" monthly limits in case any subproject needs to stretch slightly, as long as everything fits the total hard limit for 12 months.
 
 | Item                            | Count | Unit $ | Subtotal $ |
 |---------------------------------|------:|-------:|-----------:|
@@ -93,6 +93,11 @@ This proposal does not include translations but they can be funded from [Decred 
 This proposal will fund the work done between February 1, 2023 and January 31, 2024. All billing will be performed in Decred's Contractor Management System. Payments will be made in DCR at standard DCR/USD exchange rate assigned by the CMS for each month when the work was done.
 
 Any unused funds will stay in the Treasury.
+
+
+## Changes
+
+- v2: Improved text and links, clarified budget monthly target vs hard limit, added budget breakdown table.
 
 
 ## Feedback
