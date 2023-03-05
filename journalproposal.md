@@ -83,7 +83,7 @@ An average 2022 issue had ~5,000 words (~12 pages) and ~240 links to sources. To
 
 This proposal does not include translations but they can be funded from [Decred Content and Asset Translations 2023](https://proposals.decred.org/record/31c4b5f) proposal as needed.
 
-This proposal will fund the work done between February 1, 2023 and January 31, 2024. All billing will be performed in Decred's Contractor Management System using its standard average DCR/USD exchange rate for each month when the work was done.
+This proposal will fund the work done between February 1, 2023 and January 31, 2024. All billing will be performed in Decred's Contractor Management System. Payments will be made in DCR at standard DCR/USD exchange rate assigned by the CMS for each month when the work was done.
 
 Any unused funds will stay in the Treasury.
 
