@@ -87,7 +87,7 @@ For 2023 the monthly targets will remain the same at $3,000 for Decred Journal a
 | Politeia Digest                 |    12 |   $333 |     $4,000 |
 | Proposal total                  |       |        |    $40,000 |
 
-An average 2022 issue had ~5,000 words (~12 pages) and ~240 links to sources. To get a sense of what it takes to produce you can check the latest [December](https://www.decredmagazine.com/decred-journal-december-2022/) and [January](https://www.decredmagazine.com/decred-journal-january-2023/) issues. Basically it involves collecting and writing up _a lot_ of mini stories. Perhaps the biggest part is harvesting ~18 code repositories for notable updates and translating that to less technical language, while still keeping some details since we also target developers.
+An average 2022 issue had ~4,400 words (~11 pages) and ~220 links to sources. To get a sense of what it takes to produce you can check the latest [December](https://www.decredmagazine.com/decred-journal-december-2022/) and [January](https://www.decredmagazine.com/decred-journal-january-2023/) issues. Basically it involves collecting and writing up _a lot_ of mini stories. Perhaps the biggest part is harvesting ~18 code repositories for notable updates and translating that to less technical language, while still keeping some details since we also target developers.
 
 This proposal does not include translations but they can be funded from [Decred Content and Asset Translations 2023](https://proposals.decred.org/record/31c4b5f) proposal as needed.
 
