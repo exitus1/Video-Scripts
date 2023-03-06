@@ -1,5 +1,5 @@
 ---
-version: v2-draft
+version: v2-published
 url: https://proposals.decred.org/record/9e68dca
 ---
 
