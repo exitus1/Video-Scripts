@@ -98,7 +98,7 @@ Any unused funds will stay in the Treasury.
 
 ## Changes
 
-- v2: Improved text and links, clarified DJ vs PD expenses in 2022, clarified budget monthly target vs hard limit, added budget breakdown table.
+- v2: Improved text and links, clarified DJ vs PD expenses in 2022, clarified budget monthly target vs hard limit, added budget breakdown table, corrected word/page/link stats to use 2022 data.
 
 
 ## Feedback
