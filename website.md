@@ -29,7 +29,7 @@ Decred's treasury is completely self-funded and comes from 10% of the block rewa
 
 ## Proposals 
  
-Decred’s proposal platform is the decision making force behind the Decred DAO. Anyone can submit a proposal to build on Decred and get funding from the Decred treasury. All proposals are time-anchored and censorship resistant. 
+Decred’s proposal platform is the decision making force behind the Decred DAO. Anyone can submit a proposal to build and get funding from the treasury. All proposals are time-anchored, censorship resistant, and must be approved by stakeholders.
 
 ## DAO
 
