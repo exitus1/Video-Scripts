@@ -1,11 +1,10 @@
-Decred - Money Evolved (wallets, exchanges)
+## Decred - Money Evolved (wallets, exchanges)
  
 Decred is a cryptocurrency designed to evolve over time based on the direction of its coin-holders.
  
 (( Layer 1 - DAO - No ICO - 21M Coin Cap - Hybrid Pow/PoS ))
  
- 
-## Features (in small blocks, with symbols) ->
+ ## Features (in small blocks, with symbols) ->
  
 Staking Voting Treasury Proposals
 Security Untraceable Lightning DEX
@@ -15,7 +14,6 @@ Security Untraceable Lightning DEX
 (supply, voting rewards, etc)
  
 ## Why Decred?
-(NARRATIVE FOCUS)
  
 Decred was conceived by a team of Bitcoin developers working with legendary Monero developer tacotime. Their vision was clear: empower coinholder control through a unique hybrid proof-of-work and proof-of-stake mining system that blends security, decentralization, and user participation.
  
