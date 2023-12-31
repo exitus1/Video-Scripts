@@ -1,4 +1,4 @@
-## Decred - Money Evolved (wallets, exchanges)
+## Decred - Money Evolved
  
 Decred is a cryptocurrency designed to evolve over time based on the direction of its coin-holders.
  
