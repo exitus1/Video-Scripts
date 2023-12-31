@@ -45,7 +45,7 @@ Decred has built its own DEX using atomic-swap technology. This allows users to 
  
 ## Dual-Layer Security
  
-Decred's hybrid system requires majority control of both mining power and staked coins to pull off a 51% attack, making it significantly more difficult. To date, Decred has never been majority attacked.
+Decred's hybrid system is significantly more difficult to 51% attack than pure PoW or PoS systems. To date, Decred has never been majority attacked.
  
 (link to attack calculator) 
  
