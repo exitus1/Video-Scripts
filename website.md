@@ -25,7 +25,7 @@ Anyone who stakes Decred has direct voting rights on protocol changes, proposals
  
 ##  Development That Never Stops
  
-Decred's treasury is completely self-funded and comes from 10% of the block reward. This funding model ensures that development, marketing, and other project-related activities have a consistent funding source, independent of external capital or sponsors.
+Decred's treasury is self-funded and comes from 10% of the block reward. This funding model ensures that development, marketing, and other project-related activities have a consistent funding source, independent of external capital or sponsors.
 
 ## Proposals 
  
@@ -33,7 +33,7 @@ Decred’s proposal platform is the decision making force behind the Decred DAO.
 
 ## DAO
 
-The combination of the treasury fund, proposal platform, stakeholder voting, and flexible contractor model allows Decred to operate as a Layer 1 Decentralized Autonomous Organization.
+The combination of the treasury fund, proposal platform, stakeholder voting, and flexible contractor model allow Decred to operate as a Layer 1 Decentralized Autonomous Organization.
  
 ## Untraceable Transactions
  
@@ -45,13 +45,13 @@ Decred has built its own DEX using atomic-swap technology. This allows users to 
  
 ## Dual-Layer Security
  
-Decred's hybrid system is significantly more difficult to 51% attack than pure PoW or PoS systems. To date, Decred has never been majority attacked.
+Decred's hybrid consensus system is significantly more difficult to 51% attack than pure PoW or PoS systems. To date, Decred has never been majority attacked.
  
 (link to attack calculator) 
  
 ## Lightning Network For Scalability
  
-Decred is the only project other than Bitcoin taking Lighting development seriously for Layer 2 scaling. Check out Bison Relay, a P2P uncensorable communications platform prototyperunning on Decred's LN.
+Decred is the only project other than Bitcoin taking Lighting development seriously for Layer 2 scaling. Check out Bison Relay, a P2P uncensorable communications prototype running on Decred's LN.
 
 ## Quotes
 
