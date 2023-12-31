@@ -17,7 +17,7 @@ Security Untraceable Lightning DEX
 ## Why Decred?
 (NARRATIVE FOCUS)
  
-Decred was conceived by a team of Bitcoin developers working with legendary Monero developer tacotime. Their vision was clear: empower coinholder control through a unique hybrid proof-of-work and proof-of-stake mining system. They challenged the norm of developer-dominated protocol decisions, advocating for a community-driven blockchain evolution, aligning with the true spirit of decentralization.
+Decred was conceived by a team of Bitcoin developers working with legendary Monero developer tacotime. Their vision was clear: empower coinholder control through a unique hybrid proof-of-work and proof-of-stake mining system that blends security, decentralization, and user participation.
  
 (quotes can be put where necessary)
  
@@ -27,29 +27,25 @@ Decred was conceived by a team of Bitcoin developers working with legendary Mone
  
 ## Decred Puts Coinholders in Control
  
-Anyone who stakes Decred has direct voting rights on protocol changes, proposals, and treasury spending.
+Anyone who stakes Decred has direct voting rights on protocol changes, proposals, and treasury spending. Stakers earn a portion of the block subsidy for their participation. 
  
 ##  Development That Never Stops
  
-Decred's treasury is completely self-funded and comes from 10% of the block reward.  This funding model ensures that development, marketing, and other project-related activities have a consistent funding source, independent of external capital or sponsors.
+Decred's treasury is completely self-funded and comes from 10% of the block reward. This funding model ensures that development, marketing, and other project-related activities have a consistent funding source, independent of external capital or sponsors.
+
+## Proposals 
+ 
+Decred’s proposal platform is the decision making force behind the Decred DAO. Anyone can submit a proposal to build on Decred and get funding from the Decred treasury. All proposals are time-anchored and censorship resistant. 
+
+## DAO
+
+The combination of the treasury fund, proposal platform, stakeholder voting, and flexible contractor model allows Decred to operate as a Layer 1 Decentralized Autonomous Organization.
  
 ## Untraceable Transactions
  
 Decred has integrated an opt-in coin mixing process into its hybrid mining system. This allows users to easily anonymize their coins through a mixnet. 
  
-## Hybrid Mining
- 
-The Decred hybrid PoW/PoS system is innovative in the way it blends security, decentralization, and user participation. By requiring consensus from both miners and stakers, it creates a more secure and stable environment compared to systems relying solely on PoW or PoS. 
- 
-## Stake. Vote. Earn
- 
-Decred coin-holders can choose to lock their coins in Decred’s PoS mining system. Stakers earn directly from the block reward subsidy for their participation in governance decisions and securing the network.
- 
-## Proposals 
- 
-Decred’s proposal platform is the decision making force behind the Decred DAO. Anyone can submit a proposal to build on Decred and get funding from the Decred treasury. All proposals are time-anchored and censorship resistant. 
- 
-## DEX
+ ## DEX
  
 Decred has built its own DEX using atomic-swap technology. This allows users to trade peer-to-peer with no trading fees or KYC. DEX development is funded by the Decred Treasury and is completely open-source.
  
