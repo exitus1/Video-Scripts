@@ -21,7 +21,7 @@ Their vision was clear: empower coinholders through a unique hybrid proof-of-wor
  
 ## Decred Puts Coinholders in Control
  
-Anyone who stakes Decred has direct voting rights on protocol changes, proposals, and treasury spending. Stakers earn a portion of the block reward for their participation. 
+Anyone who stakes Decred has direct voting rights on network changes, proposals, and treasury spending. Stakers earn a portion of the block reward for their participation. 
  
 ##  Development That Never Stops
  
