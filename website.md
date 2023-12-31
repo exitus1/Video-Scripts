@@ -1,6 +1,6 @@
 ## Decred - Money Evolved
  
-Decred is a cryptocurrency designed to evolve over time based on the direction of its coinholders.
+Decred is a cryptocurrency designed to upgrade and evolve over time based on the direction of its coinholders.
  
 (( Layer 1 - DAO - No ICO - 21M Coin Cap - Hybrid Pow/PoS ))
  
