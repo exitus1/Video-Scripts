@@ -17,12 +17,6 @@ Security Untraceable Lightning DEX
  
 Decred was conceived by a team of Bitcoin developers working with legendary Monero developer tacotime. Their vision was clear: empower coinholder control through a unique hybrid proof-of-work and proof-of-stake mining system that blends security, decentralization, and user participation.
  
-(quotes can be put where necessary)
- 
- “Decred's killer feature is good governance, and with good governance, you can have any feature you want” - Chris Burniske & Joel Monegro, Placeholder Ventures
- 
-“If I understand it correctly, #Decred could solve most of #Bitcoin's structural problems.” - Cathie Wood, ARK Invest
- 
 ## Decred Puts Coinholders in Control
  
 Anyone who stakes Decred has direct voting rights on protocol changes, proposals, and treasury spending. Stakers earn a portion of the block subsidy for their participation. 
@@ -56,3 +50,9 @@ Decred's hybrid system requires majority control of both mining power and staked
 ## Lightning Network For Scalability
  
 Decred is the only project other than Bitcoin taking Lighting development seriously for Layer 2 scaling. Check out Bison Relay, a P2P uncensorable communications platform prototyperunning on Decred's LN.
+
+## Quotes
+
+“Decred's killer feature is good governance, and with good governance, you can have any feature you want” - Chris Burniske & Joel Monegro, Placeholder Ventures
+ 
+“If I understand it correctly, #Decred could solve most of #Bitcoin's structural problems.” - Cathie Wood, ARK Invest
