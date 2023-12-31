@@ -45,7 +45,7 @@ Decred has integrated an opt-in coin mixing process into its hybrid mining syste
  
  ## DEX
  
-Decred has built its own DEX using atomic-swap technology. This allows users to trade peer-to-peer with no trading fees or KYC. DEX development is funded by the Decred Treasury and is completely open-source.
+Decred has built its own DEX using atomic-swap technology. This allows users to trade peer-to-peer with no trading fees or KYC. DEX development is funded by the Decred DAO and is completely open-source.
  
 ## Dual-Layer Security
  
