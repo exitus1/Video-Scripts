@@ -18,6 +18,8 @@ Security Untraceable Lightning DEX
 Decred was conceived by a team of Bitcoin developers working with legendary Monero developer tacotime. 
 
 Their vision was clear: empower coinholders through a unique hybrid proof-of-work and proof-of-stake mining system that blends security, sustainability, decentralization, and user participation.
+
+Decred is a combination of the words "Decentralized" and "Credits" (yes, no?)
  
 ## Decred Puts Coinholders in Control
  
