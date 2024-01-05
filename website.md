@@ -12,8 +12,8 @@ Decred is a cryptocurrency designed to upgrade and evolve over time based on the
 (4x2 grid, small blocks, with symbols):
 
 ```
-Staking   Voting      Treasury  Proposals
-Security  Untraceable Lightning DEX
+Staking       Voting        Treasury      Proposals
+Security      Untraceable   Lightning     DEX
 ```
 
 
@@ -43,7 +43,7 @@ Decred's treasury is self-funded and comes from 10% of the block reward. This fu
 
 ## Explore More / Proposals
 
-Decred’s proposal platform is the decision making force behind the Decred DAO. Anyone can submit a proposal to build and get funding from the treasury. All proposals are time-anchored, censorship resistant, and must be approved by stakeholders.
+Decred's proposal platform is the decision making force behind the Decred DAO. Anyone can submit a proposal to build and get funding from the treasury. All proposals are time-anchored, censorship resistant, and must be approved by stakeholders.
 
 
 ## Explore More / DAO
@@ -70,7 +70,7 @@ Decred's hybrid consensus system is significantly more difficult to 51% attack t
 
 ## Explore More / Lightning Network For Scalability
 
-Decred is the only project other than Bitcoin taking Lighting development seriously for Layer 2 scaling. Check out Bison Relay, a P2P uncensorable communications prototype running on Decred's LN.
+Decred is the only project other than Bitcoin taking Lightning development seriously for Layer 2 scaling. Check out Bison Relay, a P2P uncensorable communications prototype running on Decred's LN.
 
 
 ## Quotes
