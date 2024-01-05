@@ -30,6 +30,10 @@ Their vision was clear: empower coinholders through a unique hybrid proof-of-wor
 
 Decred is a combination of the words "Decentralized" and "Credits" (yes, no?)
 
+“If I understand it correctly, #Decred could solve most of #Bitcoin's structural problems.” - Cathie Wood, ARK Invest
+
+“Decred's killer feature is good governance, and with good governance, you can have any feature you want” - Chris Burniske & Joel Monegro, Placeholder Ventures
+
 
 ## Explore More / Decred Puts Coinholders in Control
 
@@ -71,10 +75,3 @@ Decred's hybrid consensus system is significantly more difficult to 51% attack t
 ## Explore More / Lightning Network For Scalability
 
 Decred is the only project other than Bitcoin taking Lightning development seriously for Layer 2 scaling. Check out Bison Relay, a P2P uncensorable communications prototype running on Decred's LN.
-
-
-## Quotes
-
-“Decred's killer feature is good governance, and with good governance, you can have any feature you want” - Chris Burniske & Joel Monegro, Placeholder Ventures
-
-“If I understand it correctly, #Decred could solve most of #Bitcoin's structural problems.” - Cathie Wood, ARK Invest
