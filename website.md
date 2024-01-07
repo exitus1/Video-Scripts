@@ -90,4 +90,4 @@ Decred's hybrid consensus system is significantly more difficult to 51% attack t
 
 Decred is the only project other than Bitcoin taking Lightning development seriously for Layer 2 scaling. 
 
-[Bison Relay P2P Communication on LN ->](https://bisonrelay.org/)
+[View Bison Relay, Secure Communication on LN ->](https://bisonrelay.org/)
