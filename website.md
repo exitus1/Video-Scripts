@@ -40,6 +40,7 @@ Decred is a combination of the words "Decentralized" and "Credits" (yes, no?)
 Anyone who stakes Decred has direct voting rights on network changes, proposals, and treasury spending. Stakers earn a portion of the block reward for their participation.
 
 [Decred Governance ->](https://docs.decred.org/governance/overview/)
+
 [Track Network Upgrades ->](https://voting.decred.org/)
 
 ## Explore More / Development That Never Stops
@@ -60,6 +61,7 @@ Decred's proposal platform is the decision making force behind the Decred DAO. A
 The combination of the treasury fund, proposal platform, stakeholder voting, and flexible contractor model allow Decred to operate as a Layer 1 Decentralized Autonomous Organization.
 
 [Contributing and Becoming a Contractor ->](https://docs.decred.org/contributing/overview/)
+
 [Proof of Stake Voting ->](https://docs.decred.org/proof-of-stake/overview/)
 
 ## Explore More / Untraceable Transactions
@@ -67,6 +69,7 @@ The combination of the treasury fund, proposal platform, stakeholder voting, and
 Decred has integrated an opt-in coin mixing process into its hybrid mining system. This allows users to easily anonymize their coins through a mixnet.
 
 [Learn to mix your Decred ->](https://docs.decred.org/privacy/cspp/overview/)
+
 [View Decred's Privacy Participation ->](https://dcrdata.decred.org/charts?chart=coin-supply&zoom=ikd7pc00-ly52mtc0&bin=day&axis=time&visibility=true-true-true)
 
 
