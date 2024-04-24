@@ -1,8 +1,6 @@
 ## Decred Full Node Script - Super Fast!
 
-Here's how you can run a Decred full node with just one command on a Virtual Private Server or something like a Raspberry Pi or other home server solution.
-
-If you already have a VPS and don’t want to follow the tutorial, just run this curl command and your Decred full node will be good to go.
+Here's how you can run a Decred full node with just one command on a Virtual Private Server or something like a Raspberry Pi or other home server solution. If you already have a VPS and don’t want to follow the tutorial, just run this curl command and your Decred full node will be good to go.
 
 `curl -L https://node.dcr.pw | bash`
 
@@ -16,7 +14,7 @@ Decred relies on having a peer-to-peer network of nodes that fully validate all 
 
 ### Requirements
 
-What’s great about Decred’s node is it’s only about 12 gigabytes in size so you don't need much hard drive space. So for this demonstration, I’m going to pick a cheap VPS option. You’ll want at least 2 gigabytes of ram and 40 gigabytes of harddrive space because the node will grow in size over time.
+What’s great about Decred’s node is it’s only about 12 gigabytes in size so you don't need much hard drive space. So for this demonstration, I’m going to pick a [cheap VPS option](https://www.racknerd.com/NewYear/?__cf_chl_tk=QXYDnnt.65Iw9tYB5Cwi3kEhfVONX5wsPpYiPS.qCeQ-1712965943-0.0.1.1-1194). You’ll want at least 2 gigabytes of ram and 40 gigabytes of harddrive space because the node will grow in size over time.
 
 ### OS - Ubuntu or Debian
 
