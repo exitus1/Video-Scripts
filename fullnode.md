@@ -56,4 +56,4 @@ What’s great is it runs as a service, so the node will automatically start up 
 
 My node is now part of a global network and is visible on the [Decred mapper website](https://nodes.jholdstock.uk/). (Note this might take a few days to appear)
 
-And that’s it! Thanks for watching, and I hope you consider running a Decred full node.
+And that’s all! Thanks for reading, and I hope you consider running a Decred full node.
