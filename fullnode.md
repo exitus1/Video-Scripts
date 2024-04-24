@@ -52,6 +52,8 @@ View the source code of this curl command on [Github](https://github.com/jzbz/dc
 
 What’s great is it runs as a service, so the node will automatically start up whenever the server is running.
 
+### Decred Mapper
+
 My node is now part of a global network and is visible on the [Decred mapper website](https://nodes.jholdstock.uk/). (Note this might take a few days to appear)
 
 And that’s all! Thanks for reading, and I hope you consider running a Decred full node.
