@@ -26,13 +26,13 @@ I’ll choose Ubuntu as my OS. (22.04 64 bit)
 
 And once its set up and I’m in the control panel, I’ll take the IP address and password they give me and securely connect to my VPS using an application called [PUTTY](https://putty.org/).
 
-### Update
+### Update The Server
 
 Now I’ll make sure the server is up to date by running `sudo apt update && sudo apt upgrade` After that’s done I’ll type `reboot` to reboot the server.
 
 Log back in again using PUTTY. And now I’ll run our handy script which is going to set everything up.
 
-### Running the curl command
+### Running the Curl Command
 
 Ubuntu/Debian:
 
@@ -43,6 +43,8 @@ Raspberry Pi:
 `curl -L https://node.dcr.pw/pi | bash`
 
 And that’s it. Our node is going to spend the next hour or so syncing to the latest block, and from there it will do its job of validating transactions and helping the network.
+
+### Check Status
 
 I can run the command `decred.sh` at any time to see what the node is doing.
 
