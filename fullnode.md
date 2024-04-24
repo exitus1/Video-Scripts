@@ -42,7 +42,7 @@ Raspberry Pi:
 
 `curl -L https://node.dcr.pw/pi | bash`
 
-And that’s it. Our node is going to spend the next hour or so syncing to the latest block, and from there it will do its job of validating transactions and helping the network.
+And that’s it. Our node is going to spend the next hour or so syncing to the latest block (longer on older RaspPi devices), and from there it will do its job of validating transactions and helping the network.
 
 ### Check Status
 
