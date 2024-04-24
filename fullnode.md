@@ -1,4 +1,4 @@
-### Decred Full Node Script - Super Fast!
+## Decred Full Node Script - Super Fast!
 
 Here's how you can run a Decred full node with just one command on a Virtual Private Server or something like a Raspberry Pi or other home server solution.
 
