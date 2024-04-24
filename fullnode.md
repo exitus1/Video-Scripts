@@ -12,7 +12,7 @@ Raspberry Pi:
 
 ### So why should you run a full node?
 
-Decred relies on having a peer-to-peer network of nodes that fully validate all transactions and blocks and then relays them to other full nodes. Running a full node contributes to the overall security of the network, and helps ensure there are nodes available to serve lightweight SPV wallets, which are used in core applications like Decrediton, Bison Relay and the Decred DEX.
+Decred relies on having a peer-to-peer network of nodes that fully validate all transactions and blocks and then relays them to other full nodes. Running a full node contributes to the overall security of the network, and helps ensure there are nodes available to serve lightweight SPV wallets, which are used in core applications like Decrediton, Bison Relay, and the Decred DEX.
 
 ### Requirements
 
