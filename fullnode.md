@@ -10,13 +10,13 @@ Raspberry Pi:
 
 `curl -L https://node.dcr.pw/pi | bash`
 
-### So why should you run a full node?
+### Why should you run a full node?
 
 Decred relies on having a peer-to-peer network of nodes that fully validate all transactions and blocks and then relays them to other full nodes. Running a full node contributes to the overall security of the network, and helps ensure there are nodes available to serve lightweight SPV wallets, which are used in core applications like Decrediton, Bison Relay, and the Decred DEX.
 
 ### Requirements
 
-What’s great about Decred’s node is it’s only about 12 gigabytes in size so you don't need much hard drive space. So for this demonstration, I’m going to pick a cheap VPS option. You’ll want at least 2 gigabytes of ram and 40 gigabytes of harddrive space, because the node will grow in size over time.
+What’s great about Decred’s node is it’s only about 12 gigabytes in size so you don't need much hard drive space. So for this demonstration, I’m going to pick a cheap VPS option. You’ll want at least 2 gigabytes of ram and 40 gigabytes of harddrive space because the node will grow in size over time.
 
 ### OS - Ubuntu or Debian
 
@@ -26,9 +26,13 @@ I’ll choose Ubuntu as my OS. (22.04 64 bit)
 
 And once its set up and I’m in the control panel, I’ll take the IP address and password they give me and securely connect to my VPS using an application called [PUTTY](https://putty.org/).
 
+### Update
+
 Now I’ll make sure the server is up to date by running `sudo apt update && sudo apt upgrade` After that’s done I’ll type `reboot` to reboot the server.
 
 Log back in again using PUTTY. And now I’ll run our handy script which is going to set everything up.
+
+### Running the curl command
 
 `curl -L https://node.dcr.pw | bash`
 
@@ -38,7 +42,7 @@ I can run the command `decred.sh` at any time to see what the node is doing.
 
 I can also run the command `htop` to view memory and CPU usage. Press control and x to exit this view.
 
-You can view the source code of this curl command on github by visiting the link in the description. Shout out to Decred Jesus for putting this all together.
+View the source code of this curl command on [Github](https://github.com/jzbz/dcr-node/blob/master/index.html). Shout out to Decred Jesus for putting this all together.
 
 What’s great is it runs as a service, so the node will automatically start up whenever the server is running.
 
