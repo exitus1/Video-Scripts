@@ -24,7 +24,7 @@ I’ll choose Ubuntu as my OS. (22.04 64 bit)
 
 ### SSH using Putty
 
-And once its set up and I’m in the control panel, I’ll take the IP address and password they give me and securely connect to my VPS using an application called [PUTTY](https://putty.org/).
+And once the VPS is ready and I’m in the control panel, I’ll take the IP address and password they give me and securely connect to my VPS using an application called [PUTTY](https://putty.org/).
 
 ### Update The Server
 
