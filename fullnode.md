@@ -1,6 +1,6 @@
 ### Decred Full Node Script - Super Fast!
 
-Here's how you can run a Decred full node with just one command on a Virtual Private Serveer or something like a Raspberry Pi or other home server solution.
+Here's how you can run a Decred full node with just one command on a Virtual Private Server or something like a Raspberry Pi or other home server solution.
 
 If you already have a VPS and don’t want to follow the tutorial, just run this curl command and your Decred full node will be good to go.
 
