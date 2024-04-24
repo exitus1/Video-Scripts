@@ -34,7 +34,13 @@ Log back in again using PUTTY. And now I’ll run our handy script which is goin
 
 ### Running the curl command
 
+Ubuntu/Debian:
+
 `curl -L https://node.dcr.pw | bash`
+
+Raspberry Pi:
+
+`curl -L https://node.dcr.pw/pi | bash`
 
 And that’s it. Our node is going to spend the next hour or so syncing to the latest block, and from there it will do its job of validating transactions and helping the network.
 
@@ -46,6 +52,6 @@ View the source code of this curl command on [Github](https://github.com/jzbz/dc
 
 What’s great is it runs as a service, so the node will automatically start up whenever the server is running.
 
-My node is now part of a global network and is visible on the [Decred mapper website](https://nodes.jholdstock.uk/).
+My node is now part of a global network and is visible on the [Decred mapper website](https://nodes.jholdstock.uk/). (Note this might take a few days to appear)
 
 And that’s it! Thanks for watching, and I hope you consider running a Decred full node.
