@@ -46,6 +46,8 @@ Raspberry Pi:
 
 And that’s it. Our node is going to spend the next hour or so syncing to the latest block (longer on older RaspPi devices), and from there it will do its job of validating transactions and helping the network.
 
+Note: On a homeserver/RPI you may need to forward the 9108 Port.
+
 ### Check Status
 
 I can run the command `decred.sh` at any time to see what the node is doing.
